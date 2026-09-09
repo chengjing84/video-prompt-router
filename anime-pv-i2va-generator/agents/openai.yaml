@@ -1,0 +1,4 @@
+interface:
+  display_name: "Anime PV I2VA Generator"
+  short_description: "Create directed MiniMax H3 anime PV prompts from a reference image"
+  default_prompt: "Create a MiniMax H3 anime PV I2VA prompt from my reference image."

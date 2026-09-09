@@ -1,0 +1,2107 @@
+{
+  "format_version": 1,
+  "description": "Byte-exact snapshot of the router and its complete local dependency packages.",
+  "files": [
+    {
+      "path": "SKILL.md",
+      "source_package": "video-prompt-router",
+      "bytes": 3921,
+      "sha256": "a2bb55f2d11000059777e69765c813a5e3303c490d865c4ad5de9edd835f693f",
+      "git_blob_sha": "1fb18638fd9be39ad362f2318871c9f4a23c57f1"
+    },
+    {
+      "path": "anime-pv-i2va-generator/SKILL.md",
+      "source_package": "anime-pv-i2va-generator",
+      "bytes": 5166,
+      "sha256": "27a0bee367d11132276e882b7fa22f258b519431d98a035a368d4d0775242b72",
+      "git_blob_sha": "70ad5800e646ac57ddfbcccedf9569c986de734c"
+    },
+    {
+      "path": "anime-pv-i2va-generator/agents/openai.yaml",
+      "source_package": "anime-pv-i2va-generator",
+      "bytes": 229,
+      "sha256": "e9eb60bdd27309d4605abf9481de9273e1a819e308372129c7c028cba8c7779d",
+      "git_blob_sha": "990eb5d8cef57cf9caab57409064fb03a7d9c07d"
+    },
+    {
+      "path": "anime-pv-i2va-generator/references/directing-modes.md",
+      "source_package": "anime-pv-i2va-generator",
+      "bytes": 5950,
+      "sha256": "e3974c86b450f5be78889840cf8f31a3c0a5cb91cc6d9d2b614393e5a6fba197",
+      "git_blob_sha": "b7a25326e029f71638984b916a0f6d92bbdef6c6"
+    },
+    {
+      "path": "anime-pv-i2va-generator/references/h3-i2va-contract.md",
+      "source_package": "anime-pv-i2va-generator",
+      "bytes": 5521,
+      "sha256": "420d93cf9d87ffd9ab26e5936f94cea6bba5cb157f1885a5885e1debb5a73f42",
+      "git_blob_sha": "d04fc46705dc1ff688752bda29995404a16a3d33"
+    },
+    {
+      "path": "h3-prompt-writing/SKILL.md",
+      "source_package": "h3-prompt-writing",
+      "bytes": 4829,
+      "sha256": "a5285682c50545bbef9d1a43f13855176657352d28c961d3893acfa512dafdc0",
+      "git_blob_sha": "d68f7605c5131ebfa0302e399f57bea2807023c9"
+    },
+    {
+      "path": "h3-prompt-writing/agents/openai.yaml",
+      "source_package": "h3-prompt-writing",
+      "bytes": 240,
+      "sha256": "7770c9d784b7251ab882ee29a738219a3f01811e57ba7fc7822fa83eb8438c1a",
+      "git_blob_sha": "8151bd25e3dc29bdb67c8049e39c34c60c3f08f8"
+    },
+    {
+      "path": "h3-prompt-writing/references/base-en.txt",
+      "source_package": "h3-prompt-writing",
+      "bytes": 15773,
+      "sha256": "2cfebc096a6e08370f288d468d90b60f7f9bcb938f94bf090816e910e48e75fc",
+      "git_blob_sha": "40cf586a634d677d6b7107b367cf0ec9621be728"
+    },
+    {
+      "path": "h3-prompt-writing/references/fight/SKILL.md",
+      "source_package": "h3-prompt-writing",
+      "bytes": 5774,
+      "sha256": "fef1b72646732cbedf966fd1fd119e2ab0404f1908a24a6ca36c941b20f5f55e",
+      "git_blob_sha": "8f149e3d7444aab6788ce7d0c610b9ebb2b698d2"
+    },
+    {
+      "path": "h3-prompt-writing/references/fight/references/15s-fight-directing-contract.md",
+      "source_package": "h3-prompt-writing",
+      "bytes": 15619,
+      "sha256": "19ecec470e566e336e49521630096584e081923e4d8bd13239c90555fa934837",
+      "git_blob_sha": "15d9b72941335a30bfd8e5626bc6fb392a5fbad7"
+    },
+    {
+      "path": "h3-prompt-writing/references/fight/references/h3-ref2va-dual-output.md",
+      "source_package": "h3-prompt-writing",
+      "bytes": 5745,
+      "sha256": "1cf3f32d2c54d6a7b6b8fad98f886ecd7d4f0367f7d6accb3162299f60816b14",
+      "git_blob_sha": "ecf73ce7964e9062dc414a691ec840def7b98bed"
+    },
+    {
+      "path": "h3-prompt-writing/references/ref-en.txt",
+      "source_package": "h3-prompt-writing",
+      "bytes": 23553,
+      "sha256": "1e574f356716ad55612247ffb7bbccbcdb484ad96599d63c7dca1af186b1fab7",
+      "git_blob_sha": "7ae1b2d07d743fd2392258a96449be9e9e322d35"
+    },
+    {
+      "path": "seedance-20/.gitattributes",
+      "source_package": "seedance-20",
+      "bytes": 351,
+      "sha256": "c66bb4ac17eb21787db45305ff8f6c5b1f94592072c51fb76117aee660bcee8d",
+      "git_blob_sha": "05ba0d8f27763f885c81784fc085e72b9795bc11"
+    },
+    {
+      "path": "seedance-20/.github/CODEOWNERS",
+      "source_package": "seedance-20",
+      "bytes": 837,
+      "sha256": "3ba15c3b9f2ba6a798d3abc234c48bd09b2ba43c6303a7f27989c6ec0b5a9d34",
+      "git_blob_sha": "9ebfb97aa99962af6d7c02d35507b2934caf5452"
+    },
+    {
+      "path": "seedance-20/.github/workflows/privileged-frame-publication.yml",
+      "source_package": "seedance-20",
+      "bytes": 12557,
+      "sha256": "11ef3bdc020cc36940f463c64431cc76ec0fa6c81607817eda2797ead5a46aef",
+      "git_blob_sha": "6192bb0d5f8a05301969700a20ad18b123fce2bd"
+    },
+    {
+      "path": "seedance-20/.github/workflows/source-freshness-review.yml",
+      "source_package": "seedance-20",
+      "bytes": 8321,
+      "sha256": "05ce86d5897937b400d8b689553fd1193a0e37de77d1bd0436851e1545a6ff16",
+      "git_blob_sha": "944f011a69163f52f48f85bb2b4321c5c4d50158"
+    },
+    {
+      "path": "seedance-20/.github/workflows/validate-skills.yml",
+      "source_package": "seedance-20",
+      "bytes": 11089,
+      "sha256": "2b6fa31634ca2c5c6bf15aec1fccedbf40461e8da7aecdaab50c264c032e5114",
+      "git_blob_sha": "92dc6ebb2acdd463245a69888decde1f070691bb"
+    },
+    {
+      "path": "seedance-20/.gitignore",
+      "source_package": "seedance-20",
+      "bytes": 460,
+      "sha256": "7324700206d6d050a5995f3dd8da94ece28b4aed30c1a2b60651d6cb7f447848",
+      "git_blob_sha": "b280477a9e4cf03dd7771b9a4086c96f5ff3c155"
+    },
+    {
+      "path": "seedance-20/CHANGELOG.md",
+      "source_package": "seedance-20",
+      "bytes": 66322,
+      "sha256": "e4efd6c604b69bb80ec14bfa7194f04bb8297eae51d51c05be73fd26f67542b4",
+      "git_blob_sha": "7b0c299eeebb9ab066dbf9db8454e47aa5c2dff6"
+    },
+    {
+      "path": "seedance-20/LICENSE",
+      "source_package": "seedance-20",
+      "bytes": 1085,
+      "sha256": "c84a6216f6e006b4e4a65e9d056837a61ee9c4ca79f43f386df2992bc690a7f6",
+      "git_blob_sha": "1918d27feca20e1be579f4c2ffd312699514076d"
+    },
+    {
+      "path": "seedance-20/README.md",
+      "source_package": "seedance-20",
+      "bytes": 64699,
+      "sha256": "d90db727b5a581b8ea39c820dc504ad16afcaa6e70d8957ea9fd6541a14680fd",
+      "git_blob_sha": "2c9d7f5d19086578bfbd0468c5b8a25048d5ce99"
+    },
+    {
+      "path": "seedance-20/SECURITY.md",
+      "source_package": "seedance-20",
+      "bytes": 11696,
+      "sha256": "beae046971795fb8d9cde26d4426c4bcd73517defb0a0cb6961b194d3c83a81e",
+      "git_blob_sha": "538489c5be509c8034b3313d0c2379e64779810f"
+    },
+    {
+      "path": "seedance-20/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 26400,
+      "sha256": "627e6f58b21514fc65438d36893b4c593b5177bed47f57b6b02a4c9a2bee37df",
+      "git_blob_sha": "1f3b5a679dc4ba9c22455b0320ef3995d8b460e8"
+    },
+    {
+      "path": "seedance-20/V6_SEQUENCE_PROMPT_COMPILER_MANIFEST.md",
+      "source_package": "seedance-20",
+      "bytes": 7119,
+      "sha256": "1c17fe18aedc768d1d445aaecc2ce7eddfbcd80644038b371b44291809ad0c96",
+      "git_blob_sha": "cf81cb03cbc00ae90f2c12326e8a79e7e960c2af"
+    },
+    {
+      "path": "seedance-20/agents/openai.yaml",
+      "source_package": "seedance-20",
+      "bytes": 387,
+      "sha256": "b1927b56d4dce9d8c7e173489611ec2d03b792f573e592351ca05be67e261411",
+      "git_blob_sha": "f24dd8f382f52ee861cd2c717fbfbd3320b48006"
+    },
+    {
+      "path": "seedance-20/assets/fonts/BodoniModa-Italic[opsz,wght].ttf",
+      "source_package": "seedance-20",
+      "bytes": 176300,
+      "sha256": "dfff1619f8f6871c6372f8855b67211f9a73b4e93d45aca868cd8f46a48622de",
+      "git_blob_sha": "174375b9265ac430071f6f1f20de8dbe088c61c1"
+    },
+    {
+      "path": "seedance-20/assets/fonts/BodoniModa[opsz,wght].ttf",
+      "source_package": "seedance-20",
+      "bytes": 162104,
+      "sha256": "550f5e34ee0a828d7941b1fe9bc58b34e5260d3f33a61532e6d0a0114e79a5cf",
+      "git_blob_sha": "c5d582f8003ae692761dd8e9ce69de23cb9fea53"
+    },
+    {
+      "path": "seedance-20/assets/fonts/OFL.txt",
+      "source_package": "seedance-20",
+      "bytes": 4400,
+      "sha256": "931dfe2e0cd3c9443295f5c1d754b8a8403bf060df50c1d5900267ade83d0046",
+      "git_blob_sha": "973cec73f0874f3b7821a44ff43e4a4c88e44844"
+    },
+    {
+      "path": "seedance-20/assets/hero-cinematic.png",
+      "source_package": "seedance-20",
+      "bytes": 2509263,
+      "sha256": "c33f8a7a37363f65c02b225e5c480207f779e2c24b66caac9d7aad6a8bd4bc57",
+      "git_blob_sha": "a151451dcd0860c028d51fd2f6ddf49cb5e90f03"
+    },
+    {
+      "path": "seedance-20/assets/hero-command-center.png",
+      "source_package": "seedance-20",
+      "bytes": 1817913,
+      "sha256": "8dec12f851de96a8ff80b6921b350a1dbbf63190fb9f3b9a9969d150e27dc90b",
+      "git_blob_sha": "323ddb9f9af56b1bc6e7447000f7e51e38833acd"
+    },
+    {
+      "path": "seedance-20/assets/hero-dark.svg",
+      "source_package": "seedance-20",
+      "bytes": 41761,
+      "sha256": "32fce181085545e2da45ee397e575c48c8c0ebd18704a7cba1c38876ea1d3b98",
+      "git_blob_sha": "b441cbea72bcf714c22a02ae4e8f15ee2b1cf53c"
+    },
+    {
+      "path": "seedance-20/assets/hero-global-filmmaker-mode.png",
+      "source_package": "seedance-20",
+      "bytes": 2113931,
+      "sha256": "d7a2a5d22242d93d2c24a9cb6c595bced719790e8a2fbcc381c41e8de38cc851",
+      "git_blob_sha": "6d902fe6089e82a360a091e65a49244c94cce755"
+    },
+    {
+      "path": "seedance-20/assets/hero-light.svg",
+      "source_package": "seedance-20",
+      "bytes": 41761,
+      "sha256": "262653585c6658bdfdd0afb593b2f7d4c4056a8a14ab544cdb14e8e7876796f8",
+      "git_blob_sha": "1bfe914853d1dac6d514c4a8f141c54b127da731"
+    },
+    {
+      "path": "seedance-20/assets/infographic-cdn-delivery-map.png",
+      "source_package": "seedance-20",
+      "bytes": 1521314,
+      "sha256": "5971640e486c46e0186344c4c255e77260858a382ce19f6ef5b62f4c229c1326",
+      "git_blob_sha": "92ee5a3ca4c50688b5ac2e04044c29f78adc2cb0"
+    },
+    {
+      "path": "seedance-20/assets/infographic-production-delivery.png",
+      "source_package": "seedance-20",
+      "bytes": 1594632,
+      "sha256": "42a6ea7cb3aebb1daa06a0664625b0d07254ac62c70dcd6ba3b68bc36ed0a379",
+      "git_blob_sha": "3dd2f45d2f0a04228951d3014187931e287fc04e"
+    },
+    {
+      "path": "seedance-20/assets/infographic-professional-qc-stack.png",
+      "source_package": "seedance-20",
+      "bytes": 1517597,
+      "sha256": "44dd738ccccc570c799231b3a697d2bad118526e4fa13cf2c005186a079b6d6a",
+      "git_blob_sha": "be7f73d5144c43d9a247d81f872d31b5b9040abe"
+    },
+    {
+      "path": "seedance-20/assets/infographic-reference-role-map.png",
+      "source_package": "seedance-20",
+      "bytes": 1739416,
+      "sha256": "0dcfafaff22cd405a1d54e578332f61e1bb943defe5c30348ed14353556fc7f8",
+      "git_blob_sha": "e039b2db9111ed23b45d7ced2f1d0dc4566229d9"
+    },
+    {
+      "path": "seedance-20/assets/infographic-skill-capabilities.png",
+      "source_package": "seedance-20",
+      "bytes": 1602137,
+      "sha256": "08d5c56a1f2089c2ac16150b1fda7d750bef01ffbb1f82a24ac246a2c4371872",
+      "git_blob_sha": "962e66dfb9aa104f20d21b542c1e304f343bf71d"
+    },
+    {
+      "path": "seedance-20/assets/masthead-outlines.json",
+      "source_package": "seedance-20",
+      "bytes": 41399,
+      "sha256": "0d844034314380bb681f9e0438b3fd94f47cd5c6802b27eb4fc627d016e09dd2",
+      "git_blob_sha": "1de965c7869cf3761c4a8ac656c7061f1054be61"
+    },
+    {
+      "path": "seedance-20/assets/skill-map-cinematic.png",
+      "source_package": "seedance-20",
+      "bytes": 2237215,
+      "sha256": "a61c488fe25f32a8efdaa96a945fcfbf95aea0770e9451eb8ce631ac80bb773e",
+      "git_blob_sha": "1b4c8a20502fb5959cefe2ebc7201e5d19162b42"
+    },
+    {
+      "path": "seedance-20/assets/skill-map.svg",
+      "source_package": "seedance-20",
+      "bytes": 14081,
+      "sha256": "2888e5a949bbfb3202f52a30e4c38682651299f5e2c9dbb9cc36bcea8c8f9e80",
+      "git_blob_sha": "c971d43568522c38d0f20e5d2ae2da1367fd3b41"
+    },
+    {
+      "path": "seedance-20/assets/skill-os-infographic.png",
+      "source_package": "seedance-20",
+      "bytes": 2030910,
+      "sha256": "970cb3bf67ebf5e208e0baf6b09fd647410a9bfd5be6d8c5cb802df75e43843d",
+      "git_blob_sha": "e53f5a76e88ddfb514551c947facca7c23860dba"
+    },
+    {
+      "path": "seedance-20/data/community-patterns.seedance-2026-05-30.json",
+      "source_package": "seedance-20",
+      "bytes": 10856,
+      "sha256": "f65e6c9b3a71c901cd6c01ec77e7fa9edb09c84fa479e8822dd3b1fee6728695",
+      "git_blob_sha": "22c905cddcbec5f84e6abe3a7ed7f204b2648366"
+    },
+    {
+      "path": "seedance-20/data/generation-runs.example.jsonl",
+      "source_package": "seedance-20",
+      "bytes": 770,
+      "sha256": "7efe83ec24ef912747c4a7dbd048ca94d6029daa1f7e42df62af26ba5174c377",
+      "git_blob_sha": "c9c46f66a3bc5b6f662eb5bb74273b7a23e50a20"
+    },
+    {
+      "path": "seedance-20/data/sources.seedance-2026-05-30.json",
+      "source_package": "seedance-20",
+      "bytes": 28702,
+      "sha256": "89210eab4dc9bf9127aa2fae2a5fd32860aec4ab1093f34b3db7f6345850a128",
+      "git_blob_sha": "2d9fe1272f684107342a1e8c6ea153270d974556"
+    },
+    {
+      "path": "seedance-20/docs/QUICKSTART.es.md",
+      "source_package": "seedance-20",
+      "bytes": 6927,
+      "sha256": "16e6a4a85f129bd3c6da4ec753802bbab4efd6e261d21590a049da00da22aeac",
+      "git_blob_sha": "52efd4026b67e85bcf77ceea693550cb20d48bcd"
+    },
+    {
+      "path": "seedance-20/docs/QUICKSTART.ja.md",
+      "source_package": "seedance-20",
+      "bytes": 8523,
+      "sha256": "b3230e29d536f0283290fa7ed3f9001c1ef9f0b14dcc840f4f9e911a9776378a",
+      "git_blob_sha": "d3ed6dc2e893d5bf66154a1eeb274eb9a65b2364"
+    },
+    {
+      "path": "seedance-20/docs/QUICKSTART.ko.md",
+      "source_package": "seedance-20",
+      "bytes": 7631,
+      "sha256": "8deebbbb396d531db577f15049de97c5a90ad14e6ce41961033693b3fbf5d44e",
+      "git_blob_sha": "38e0557bb81f58f31123e5fee3de018cf62ff69f"
+    },
+    {
+      "path": "seedance-20/docs/QUICKSTART.md",
+      "source_package": "seedance-20",
+      "bytes": 7915,
+      "sha256": "8ef7728d7729cdc08de0159ca25ab3f09a3e8befe83c127834d096e4fca3e159",
+      "git_blob_sha": "d9dc66a63e2883590bc1d4ead97ce5d4a1201580"
+    },
+    {
+      "path": "seedance-20/docs/QUICKSTART.ru.md",
+      "source_package": "seedance-20",
+      "bytes": 10478,
+      "sha256": "54d600f5dd35710d7ec21408efdb11cc8c8161de06d524efc2bb11d2226dc83d",
+      "git_blob_sha": "7393f5ba3da08dc20872bf67d37cc740787dccbc"
+    },
+    {
+      "path": "seedance-20/docs/QUICKSTART.zh.md",
+      "source_package": "seedance-20",
+      "bytes": 6224,
+      "sha256": "a37272b46a235d279666f2c9cb2bbeb09ce0ce03dd85685583d9991a13bc2465",
+      "git_blob_sha": "a172cb8d3ea2f8a1e64619f5608304837cb1e8b7"
+    },
+    {
+      "path": "seedance-20/docs/README.ja.md",
+      "source_package": "seedance-20",
+      "bytes": 2751,
+      "sha256": "44865c77eca7b5549051f29f8bd37f0a6697a884d9ad1a67549e792af1f998f6",
+      "git_blob_sha": "1ebad3c13e21dd07d8abbccdfde55388df8fe88d"
+    },
+    {
+      "path": "seedance-20/docs/README.ko.md",
+      "source_package": "seedance-20",
+      "bytes": 2792,
+      "sha256": "f180589e0a22467a7983011ff22e2fca459194d8c7c8ba37a3882143b417c323",
+      "git_blob_sha": "4f818231f554c95dc8b59972f0f6414cc5abaa45"
+    },
+    {
+      "path": "seedance-20/docs/README.zh.md",
+      "source_package": "seedance-20",
+      "bytes": 2312,
+      "sha256": "a76446b0c00a4333d609b755f2efa90ab43a7d334880726027b26f418d466fae",
+      "git_blob_sha": "1c88922acddf947252787714dd873bbfe435bc69"
+    },
+    {
+      "path": "seedance-20/docs/RELEASE_v6.2.0.md",
+      "source_package": "seedance-20",
+      "bytes": 2363,
+      "sha256": "d88252b397292ff9f5fd43e159ae6c986e87633a318a51401280795f000c60fc",
+      "git_blob_sha": "968d949d020316acb9e211119c8c17edbf2281d2"
+    },
+    {
+      "path": "seedance-20/docs/RELEASE_v6.3.0.md",
+      "source_package": "seedance-20",
+      "bytes": 3057,
+      "sha256": "9e1106eb2c3f679bac81b8f798aadc0bbecc9078c039ae51bb3d28fdd1d8461d",
+      "git_blob_sha": "ca4934f4e0a150ce9fb4cc78c4f8e4dfde79a387"
+    },
+    {
+      "path": "seedance-20/docs/RELEASE_v6.4.0.md",
+      "source_package": "seedance-20",
+      "bytes": 3642,
+      "sha256": "7d06114c2f4e8a618908c7da3daf05af166b3bee91c388ee5a52e468bfa4717f",
+      "git_blob_sha": "1faf22794346aa265fe9f9887773ce745eedeee9"
+    },
+    {
+      "path": "seedance-20/docs/RELEASE_v6.5.0.md",
+      "source_package": "seedance-20",
+      "bytes": 3165,
+      "sha256": "cc7874cf9e7d6b5919cbf96e9c2bf24190ed7de96c208a38d128b558e2534346",
+      "git_blob_sha": "9c344b6ef06f3ae9a503217766680a5e75fa7a7b"
+    },
+    {
+      "path": "seedance-20/docs/RELEASE_v6.6.0.md",
+      "source_package": "seedance-20",
+      "bytes": 3303,
+      "sha256": "0365c99012f2446183b727f11152762ae69c925f124589c7453b27ba0f3497e0",
+      "git_blob_sha": "fc30ce0e46e3b94420518bfcf189c299cc37b185"
+    },
+    {
+      "path": "seedance-20/docs/RELEASE_v6.7.0.md",
+      "source_package": "seedance-20",
+      "bytes": 23474,
+      "sha256": "82f8b4a626d4a9f2ef8bb8a19cb5b6b676743d3da777005affab5d0dc594c946",
+      "git_blob_sha": "d78f2364c6777c00834a58a102fd6298ffe8672f"
+    },
+    {
+      "path": "seedance-20/docs/V7_INTEGRATION_REVIEW.md",
+      "source_package": "seedance-20",
+      "bytes": 14672,
+      "sha256": "c6f6c48d9d7a1622c02f854568b827905e3f038ce473609c7fd38dde338acba9",
+      "git_blob_sha": "c5e2481034a37c59cbf542b422e3c49a1e231e82"
+    },
+    {
+      "path": "seedance-20/docs/frontend-redesign.md",
+      "source_package": "seedance-20",
+      "bytes": 3852,
+      "sha256": "9d7688573c47e5a51209b1aa89cf72fd92f9d20967cb9ff099774dd1e8d40df2",
+      "git_blob_sha": "28212865ae0bbef66f4f1ffa3ebfd9336be399cb"
+    },
+    {
+      "path": "seedance-20/docs/v6-release-readiness.md",
+      "source_package": "seedance-20",
+      "bytes": 1246,
+      "sha256": "0865c31294cf5cd8b9e508a1470f98b88b82248ff3a0d577723e7e66222a9721",
+      "git_blob_sha": "863147c2698948466e6f912dc8544cecd3b80b71"
+    },
+    {
+      "path": "seedance-20/evals/eval-run-ledger.md",
+      "source_package": "seedance-20",
+      "bytes": 5287,
+      "sha256": "97fe1bd1257bb337c84f55c6a190c06fce993ba58f9bfa6fc85bd5dc7c473158",
+      "git_blob_sha": "1d8ea155671c869882d2a5ca8c7be958ebdddae8"
+    },
+    {
+      "path": "seedance-20/evals/evals.json",
+      "source_package": "seedance-20",
+      "bytes": 161027,
+      "sha256": "729057eb7b64c2d77638f0b94e62a1885eb00d7b8533e26165bad71dadb129ea",
+      "git_blob_sha": "a0a6ad52d293eb38e4f7633193b284b31b1b7b68"
+    },
+    {
+      "path": "seedance-20/evals/fixtures/sequence-airport-arrival-project-state.json",
+      "source_package": "seedance-20",
+      "bytes": 16479,
+      "sha256": "853a67e05f5d4652c84824e497e1ddce4feb78f8468f4ed169dfca3e8d59116e",
+      "git_blob_sha": "1928c72617438cab9e64f779a321bec96879ef14"
+    },
+    {
+      "path": "seedance-20/evals/generation-benchmark.json",
+      "source_package": "seedance-20",
+      "bytes": 1185,
+      "sha256": "33971ae53920a342b2d94a277a71ba19fcee82637233feb76d4defdca1772340",
+      "git_blob_sha": "0e463f4367cc2309d5d0664059247c212885df8a"
+    },
+    {
+      "path": "seedance-20/evals/multilingual-native-review-evidence.json",
+      "source_package": "seedance-20",
+      "bytes": 357,
+      "sha256": "da02a6262de847bc894a850238f219e5629bcdcb0f4a21efcde2f2fb0255fe94",
+      "git_blob_sha": "2a7913f1550be9ac1c993d044b128940f2c3d9c2"
+    },
+    {
+      "path": "seedance-20/evals/multilingual-native-review.json",
+      "source_package": "seedance-20",
+      "bytes": 27632,
+      "sha256": "806afdcd4762874145dec8cabaf76592b148bd4057bd52448788045c43f601dc",
+      "git_blob_sha": "fcd1d27e643cef9bda76059440dd4d67f458365b"
+    },
+    {
+      "path": "seedance-20/evals/prompt-architecture-stress.json",
+      "source_package": "seedance-20",
+      "bytes": 39062,
+      "sha256": "9e08518186aad4b27371ea9384a26bc7d4a485d8742fc99cb593ad38e1fa9d0d",
+      "git_blob_sha": "40dbf1d01903a01ac63b57b02ce4ce8151ee1914"
+    },
+    {
+      "path": "seedance-20/evals/source-manifest.json",
+      "source_package": "seedance-20",
+      "bytes": 20881,
+      "sha256": "42e5f54eb6cf099ecd3a01993a303b8c4b993db57142f13770cc2de6ee647443",
+      "git_blob_sha": "6eb03f83c52efe95f30f5b0ec9cc595f7be2bc31"
+    },
+    {
+      "path": "seedance-20/examples/golden-prompts/compact-i2v.md",
+      "source_package": "seedance-20",
+      "bytes": 937,
+      "sha256": "49c04f8d2b21f28a76a365ec893ef0e5b3ba4abe0dd3113b8e8750777e32068e",
+      "git_blob_sha": "7f7823bd288d5a2f72ff88df764157edc1c60a4a"
+    },
+    {
+      "path": "seedance-20/examples/golden-prompts/continuation-observed-deviation.md",
+      "source_package": "seedance-20",
+      "bytes": 1070,
+      "sha256": "e8a37e335679e6ea08d53d0f65716384318d7991b431292c0dd5767c86b999d4",
+      "git_blob_sha": "57f5e7d9c73aeb9f6ef07643f8a827a14dda0995"
+    },
+    {
+      "path": "seedance-20/examples/golden-prompts/dense-2d-storyboard.md",
+      "source_package": "seedance-20",
+      "bytes": 1114,
+      "sha256": "79e589d38f4a47cb829d60702bd92f352a24198c0fd89c9080fef34e0816acf1",
+      "git_blob_sha": "43889846daf1c0a5097c1e6c2e9fc93a79f0043c"
+    },
+    {
+      "path": "seedance-20/examples/golden-prompts/first-last-frame-transition.md",
+      "source_package": "seedance-20",
+      "bytes": 1000,
+      "sha256": "8ec9e990870e2de114e9b817bfb58a9103c9543122073602dac051b2be656c92",
+      "git_blob_sha": "412fa54c3426f25e5fa2d1f00fa49eb2f40b6e78"
+    },
+    {
+      "path": "seedance-20/examples/golden-prompts/phased-single-take.md",
+      "source_package": "seedance-20",
+      "bytes": 965,
+      "sha256": "d1fe848f8dc83933693b5f57fa8a6ede7eef6651cfec0770fb34e210591246d3",
+      "git_blob_sha": "0991958b5ba6c9a80bd225cd66bf1f054c4d0ca8"
+    },
+    {
+      "path": "seedance-20/examples/golden-prompts/r2v-role-isolation.md",
+      "source_package": "seedance-20",
+      "bytes": 1089,
+      "sha256": "a36c0bc3129ee86b4ac0373fc14d716c599e75675ba495b31008a86d72c65cfa",
+      "git_blob_sha": "11815929a5077cbe8bb03441d575061793ad13fe"
+    },
+    {
+      "path": "seedance-20/examples/golden-prompts/sequence-continuation.md",
+      "source_package": "seedance-20",
+      "bytes": 1177,
+      "sha256": "aa45fb69b7c5f1c3ce0fb30a73156f1fecfda080d3df38c456b7030ff79d9b4e",
+      "git_blob_sha": "ad81de6db0b0f894b46c8b6accc4e2867264567d"
+    },
+    {
+      "path": "seedance-20/examples/golden-prompts/video-edit-one-layer.md",
+      "source_package": "seedance-20",
+      "bytes": 946,
+      "sha256": "6370dddb7de16341f6ddc5f853faed0b8ea96ed9e9053f9dae8a7f571f477b53",
+      "git_blob_sha": "2aa5ffeead28e32f02b61798cfaa83b57fbc06c3"
+    },
+    {
+      "path": "seedance-20/examples/sequence-airport-arrival/clip-01-contract.json",
+      "source_package": "seedance-20",
+      "bytes": 3426,
+      "sha256": "9452c8c1cbe74a195014dbebf3ca5aba253f33adc8f4476959aacb9e085a72c6",
+      "git_blob_sha": "2758c76e46f30db6c250cd8bc3dc7baaf8df3e9f"
+    },
+    {
+      "path": "seedance-20/examples/sequence-airport-arrival/clip-01-prompt.md",
+      "source_package": "seedance-20",
+      "bytes": 873,
+      "sha256": "8747f760d2fac3ca3516998037120bca31d63bebe2570ba092133b2236d5d55b",
+      "git_blob_sha": "75c2d7c81bf2e6cae77f38469df0ff406a09e606"
+    },
+    {
+      "path": "seedance-20/examples/sequence-airport-arrival/clip-01-take-review.json",
+      "source_package": "seedance-20",
+      "bytes": 786,
+      "sha256": "98f8c39a1350865c49dcc6cc3c06771aa98a50a15b1028da650ffada4206892d",
+      "git_blob_sha": "c3e18072a816c35a845f4aae9b3ec6557de22574"
+    },
+    {
+      "path": "seedance-20/examples/sequence-airport-arrival/clip-02-continuation-contract.json",
+      "source_package": "seedance-20",
+      "bytes": 3515,
+      "sha256": "0a1c6d1f46a94d8ae10b8343433d53dddfd31a9f9dbfbc9902cc832b7352212d",
+      "git_blob_sha": "ce6b26bf6f37ae453787f666c2169cf24b35c769"
+    },
+    {
+      "path": "seedance-20/examples/sequence-airport-arrival/clip-02-prompt.md",
+      "source_package": "seedance-20",
+      "bytes": 1036,
+      "sha256": "c2c404ad4d86811297d0c1c0d9e03ed30385e73f05bba83ede2658b1cd38f945",
+      "git_blob_sha": "21aec80a8a4e02e9a5a51c4450142ee3136ae638"
+    },
+    {
+      "path": "seedance-20/examples/sequence-airport-arrival/project-state.json",
+      "source_package": "seedance-20",
+      "bytes": 23848,
+      "sha256": "ec9ef87a0679509bb7b28b52b82731fe60daa94c76f7fca97a65557515222ca2",
+      "git_blob_sha": "2df6698bc16045fc6ae20009509f24e28a57a2d8"
+    },
+    {
+      "path": "seedance-20/examples/sequence-airport-arrival/sequence-plan.md",
+      "source_package": "seedance-20",
+      "bytes": 4017,
+      "sha256": "4a2fb9c94f6beeeca370394264d3aec0e807030e55c037df0fea3bd41e03c11f",
+      "git_blob_sha": "70b44494e20f4172612f37652e64cb9ed9b7f0f1"
+    },
+    {
+      "path": "seedance-20/examples/sequence-mixed-lane/clip-01-take-review.json",
+      "source_package": "seedance-20",
+      "bytes": 456,
+      "sha256": "ebce8c1b7217540789e8dcba470af2a41d3ed769d6b4f143da700ad6a9ed5aa5",
+      "git_blob_sha": "9cff4ecf9db1d00e3f32815e7b06499e47fe7fc9"
+    },
+    {
+      "path": "seedance-20/examples/sequence-mixed-lane/clip-02-take-review.json",
+      "source_package": "seedance-20",
+      "bytes": 456,
+      "sha256": "ae6d235182d6865067170cb927814e4f30953c61f2439d5297c250b8de30edfc",
+      "git_blob_sha": "959c6acd7d7b4629f712ebaa592095944f8ea225"
+    },
+    {
+      "path": "seedance-20/examples/sequence-mixed-lane/project-state.json",
+      "source_package": "seedance-20",
+      "bytes": 13248,
+      "sha256": "30f5fd43e28a5637ac297883d4de818af465478691bf8f9decef62db0cb78482",
+      "git_blob_sha": "31bdf18d7875af0fbe008ce3603cc0d5fc79c54c"
+    },
+    {
+      "path": "seedance-20/examples/sequence-observed-deviation/project-state-after.json",
+      "source_package": "seedance-20",
+      "bytes": 10426,
+      "sha256": "f1aa951c50a6524b481b8b49c9e75b4cff50a5598edb46ff868a21c2181b84ee",
+      "git_blob_sha": "3d660945a322e61b9376e3b6b46a61e332a76c42"
+    },
+    {
+      "path": "seedance-20/examples/sequence-observed-deviation/project-state-before.json",
+      "source_package": "seedance-20",
+      "bytes": 13149,
+      "sha256": "ba4ea2b45261344fe9f5b252485b82ecb20345f5864d26f3228f5787d138e5d9",
+      "git_blob_sha": "3e0831c77a224e3c375055d4acb0ecfaf99a1e7c"
+    },
+    {
+      "path": "seedance-20/examples/sequence-observed-deviation/take-review.json",
+      "source_package": "seedance-20",
+      "bytes": 717,
+      "sha256": "df61ebf2ff93d205803500038c92d79413868d121b0f558cd5564f7ba9e7f1f7",
+      "git_blob_sha": "11c83ba4ebf880c131c718b96451bc61e06af541"
+    },
+    {
+      "path": "seedance-20/examples/standalone-clip/project-state.json",
+      "source_package": "seedance-20",
+      "bytes": 3191,
+      "sha256": "0e14c926f6ce8645208588eb8539b225c713f2ab65bb39d09461d824e463391d",
+      "git_blob_sha": "29eaa660e6628f7c81c512610c32d595ca283652"
+    },
+    {
+      "path": "seedance-20/examples/standalone-clip/prompt.md",
+      "source_package": "seedance-20",
+      "bytes": 338,
+      "sha256": "beb2b55de1739f391f20f94c4e65dadc992e16b114fc59a8809f1dc6358d7700",
+      "git_blob_sha": "b66fda6793594db9521ca3a9ef8bc35f1d89b954"
+    },
+    {
+      "path": "seedance-20/references/2d-anime-grammar.md",
+      "source_package": "seedance-20",
+      "bytes": 3917,
+      "sha256": "6a760b840f6d6c5ac56e88f8df8c13c42080aee06e355134b1c84fe1c40a7376",
+      "git_blob_sha": "eab00c91844c270b1350a4efc8cc907e0e7b7e26"
+    },
+    {
+      "path": "seedance-20/references/agent-compatibility.md",
+      "source_package": "seedance-20",
+      "bytes": 14125,
+      "sha256": "eea713ec0e587c810f3c11e19c87b6e4898cf8ed0468a3b29bd72ff4ac5b32f5",
+      "git_blob_sha": "f5bffcd9e85b3d848bdc02e3867e9810d4c2735a"
+    },
+    {
+      "path": "seedance-20/references/allocation-model.md",
+      "source_package": "seedance-20",
+      "bytes": 3545,
+      "sha256": "20b9d548ea1e6301f6e2568ee9f0d40907857e64b96ed9995c6943dd8ac049a2",
+      "git_blob_sha": "96bd5df8407b65e9a799fcfd19050f43a062c196"
+    },
+    {
+      "path": "seedance-20/references/anti-slop-lexicon.md",
+      "source_package": "seedance-20",
+      "bytes": 4889,
+      "sha256": "d92d0e460e911d77258454814f3d1ac6744bc5b3ec486d01b1ecb5f66d5a39f1",
+      "git_blob_sha": "61acf95a4de0f83507a01595dcf1fed98e20cc53"
+    },
+    {
+      "path": "seedance-20/references/api-status.md",
+      "source_package": "seedance-20",
+      "bytes": 20975,
+      "sha256": "a7836f0f9432878308d207a935bc07be5072cbe0e7678adf125e27ab6157d82e",
+      "git_blob_sha": "1aba7f02ee6f7535eeb82c91264fb93dbb1324b1"
+    },
+    {
+      "path": "seedance-20/references/api-workflow.md",
+      "source_package": "seedance-20",
+      "bytes": 6554,
+      "sha256": "be6c9b709f7e2667ae24eac54de04a2c1a5d2d4fbf474b191affc22ea1a732aa",
+      "git_blob_sha": "aad06c2f4790f44bd03fb26af89ac581a8d86cc3"
+    },
+    {
+      "path": "seedance-20/references/aspect-ratio-delivery.md",
+      "source_package": "seedance-20",
+      "bytes": 2627,
+      "sha256": "546cd0a2bbff1370073237595dc73427188e0d3cda88d5b958a9a5ccda0ccd8a",
+      "git_blob_sha": "e77152906c8cece519241e38e22139ff38dc85ec"
+    },
+    {
+      "path": "seedance-20/references/audio-guide.md",
+      "source_package": "seedance-20",
+      "bytes": 9654,
+      "sha256": "6cca59c45403f8f0caf4d87d1b57c2ca733f2d33ee6bf4f086b28f395fa80a81",
+      "git_blob_sha": "2a39d2286a9c2e1237b0184d89bdbac9a32e505c"
+    },
+    {
+      "path": "seedance-20/references/audio-post-delivery.md",
+      "source_package": "seedance-20",
+      "bytes": 2281,
+      "sha256": "b0b4fd9767be70b3348a13885f65eab6a6d43401006995d73688008cc890859e",
+      "git_blob_sha": "a402fbb53fdbde6818008080df3e8a93648e1ac6"
+    },
+    {
+      "path": "seedance-20/references/capability-map.md",
+      "source_package": "seedance-20",
+      "bytes": 5669,
+      "sha256": "ed30812d3c3ddce722a3880924ebed18f1c0f987b7c5b88dbea8fcd148563ff5",
+      "git_blob_sha": "eb2260b065be3847d92f8c23a22745dc6ef3999b"
+    },
+    {
+      "path": "seedance-20/references/cinematography-shot-language.md",
+      "source_package": "seedance-20",
+      "bytes": 5855,
+      "sha256": "3aa8e1655383d22d73ed8fbf3eb66256f54d568d4f25bf813afd95e20a91a38e",
+      "git_blob_sha": "526026b0db84ba6673f0b91ec643d90e69421fab"
+    },
+    {
+      "path": "seedance-20/references/color-pipeline-aces.md",
+      "source_package": "seedance-20",
+      "bytes": 3087,
+      "sha256": "b2cf31d028c3f8dccecf7bc91ee7b56b590be310742dccd74093673b6ee0ee9f",
+      "git_blob_sha": "a33bd128ab92a63cf34cb9a06e7401b7f337db04"
+    },
+    {
+      "path": "seedance-20/references/community-source-methodology.md",
+      "source_package": "seedance-20",
+      "bytes": 2442,
+      "sha256": "8bb558262afe478edcfa584d6aadf7e2b1c23e59b9e63b963add69ce241fee81",
+      "git_blob_sha": "a40c9c3dadeda68102108f8070b8ece9fcc466b4"
+    },
+    {
+      "path": "seedance-20/references/continuation-handoff.md",
+      "source_package": "seedance-20",
+      "bytes": 7848,
+      "sha256": "ea7178642162eda4d8695830a613e13c2f6d4f11706a61512e86a6ce18d2c37d",
+      "git_blob_sha": "c6ebe2c74b037cd280a0cc48a856a9a9ffb9c299"
+    },
+    {
+      "path": "seedance-20/references/continuity-qc.md",
+      "source_package": "seedance-20",
+      "bytes": 1215,
+      "sha256": "1199e0233292743e3d36298d371b977dba1cbd8c2859dae93cdd955198516150",
+      "git_blob_sha": "fc592bd85efc2a942d1d11d33c55913e9720d018"
+    },
+    {
+      "path": "seedance-20/references/delivery-qc.md",
+      "source_package": "seedance-20",
+      "bytes": 2747,
+      "sha256": "9ae777ed06ab7717549383bd11ef57d5dbedf54e6e696eb6eb18d848eec7c282",
+      "git_blob_sha": "a2369765405e877108d161e739a9b0ef0198c5b3"
+    },
+    {
+      "path": "seedance-20/references/dense-storyboard-mode.md",
+      "source_package": "seedance-20",
+      "bytes": 1445,
+      "sha256": "56f5fb1ee320336d3eb09dc0792dcd4d643a048c4efd72dae19ecf92b8556d43",
+      "git_blob_sha": "f58c16509345fd36c6da4dbcca4169f91d781b0c"
+    },
+    {
+      "path": "seedance-20/references/directing-engine-genre-library.md",
+      "source_package": "seedance-20",
+      "bytes": 54643,
+      "sha256": "4b6fea6102d764e068973dd6a256c0fef74dcd1d1df7ecf807e6d30570b242e9",
+      "git_blob_sha": "8a2942c0c672b9b7d4d6fa31c4492efb2c714859"
+    },
+    {
+      "path": "seedance-20/references/directing-engine.md",
+      "source_package": "seedance-20",
+      "bytes": 21634,
+      "sha256": "89c126bd888e6530bfa5085664cdd9355a6e9cd6b293505eafd8c93a4c8d0f9f",
+      "git_blob_sha": "0e9c22020b5cc08b2bc9429f733cb63714c4a6e9"
+    },
+    {
+      "path": "seedance-20/references/directors-read.md",
+      "source_package": "seedance-20",
+      "bytes": 9851,
+      "sha256": "065fd48f0767c31e7ab3068db6b74e53850005b05d0d95e4c7e9e755a7afa7c5",
+      "git_blob_sha": "410a76e3a485a1388624f298a49785398896e2c8"
+    },
+    {
+      "path": "seedance-20/references/eval-rubric.md",
+      "source_package": "seedance-20",
+      "bytes": 2233,
+      "sha256": "10247feac85df8e5f59a13e2588ac4c28d17380f83a11adc6124e4142a4277c9",
+      "git_blob_sha": "51d051037d88c83ca09f3497d5e464f8a9466a4c"
+    },
+    {
+      "path": "seedance-20/references/event-density.md",
+      "source_package": "seedance-20",
+      "bytes": 1047,
+      "sha256": "181d3bcf36f6f79a5c28d7b5e22d9ebe6d6c72c05c2814b3474ffbc8de49ee87",
+      "git_blob_sha": "04c6cb17995e6e57eadcaae88275f9585be7033c"
+    },
+    {
+      "path": "seedance-20/references/examples-by-mode.md",
+      "source_package": "seedance-20",
+      "bytes": 7804,
+      "sha256": "029dabc3971248e596c7e1be382d4c1419dbbc0af00a6bd25dd89f6de30be0f6",
+      "git_blob_sha": "3933bd78d16971ddf8cb976708a301529e206abf"
+    },
+    {
+      "path": "seedance-20/references/failure-atlas.md",
+      "source_package": "seedance-20",
+      "bytes": 1521,
+      "sha256": "9a1cf6d7fdb6be98ae744317632f461702952e36e2aeee909389306b3b86c139",
+      "git_blob_sha": "fad8634e8b88d1926087122f0b7b41bd73d97303"
+    },
+    {
+      "path": "seedance-20/references/field-observed-tips.md",
+      "source_package": "seedance-20",
+      "bytes": 3019,
+      "sha256": "7c26c2171d3200d80b977af3ea3a111cf7aab4159396588d6abc8937096b13ee",
+      "git_blob_sha": "5174dc05cb1c7e2debc883be6e37904a429221c2"
+    },
+    {
+      "path": "seedance-20/references/filter-vocab.md",
+      "source_package": "seedance-20",
+      "bytes": 2122,
+      "sha256": "21dd32fad88ec88d0afb7df197121bcf01ce6206a2e32a61cca0d20f41984f1e",
+      "git_blob_sha": "4bfbd4beb4cc72c094c6da044610d75329379084"
+    },
+    {
+      "path": "seedance-20/references/first-last-frame-guide.md",
+      "source_package": "seedance-20",
+      "bytes": 5249,
+      "sha256": "693ad681dda2c7561f621bd9880bcdf35c1fc4526d2f8350f61f88e639b5a215",
+      "git_blob_sha": "5e2a49b3792d633faf590f3f609b81064797414d"
+    },
+    {
+      "path": "seedance-20/references/frontend-design-system.md",
+      "source_package": "seedance-20",
+      "bytes": 9177,
+      "sha256": "4e0e9e3647ebf94c275cf4d5778d1f6fdf978f9ea8b214e68ece1482c533983d",
+      "git_blob_sha": "f3019c1bec2eff6eeeaecb8dee44f064592139c2"
+    },
+    {
+      "path": "seedance-20/references/genre-guides.md",
+      "source_package": "seedance-20",
+      "bytes": 2603,
+      "sha256": "5c30b790dfac5c3907c2759571c17af51dd48ce94e4e5a3c6b4071c204018dff",
+      "git_blob_sha": "96c8eeb618a2426b5057a6a7f39ac34274077511"
+    },
+    {
+      "path": "seedance-20/references/i2v-guide.md",
+      "source_package": "seedance-20",
+      "bytes": 2714,
+      "sha256": "f006ba4ee7ac4f99fe30317e4711f863aa5f3ee88f1e9c4231285ce640f46dbe",
+      "git_blob_sha": "d0aafafabe427d373252076cbaea3c1a3c341cc1"
+    },
+    {
+      "path": "seedance-20/references/intent-vs-precision.md",
+      "source_package": "seedance-20",
+      "bytes": 650,
+      "sha256": "0a418f94d33dddda16e3961319d810fb7eb4b39efb82387ab81404f2a5f272f2",
+      "git_blob_sha": "3b7c9a7ceef8fcf7a3fd8b005b8e63a4c8c25fb8"
+    },
+    {
+      "path": "seedance-20/references/interview-starters.md",
+      "source_package": "seedance-20",
+      "bytes": 6823,
+      "sha256": "c661d8990707850671f84080f7e72a1956123d58ba73a4a4502d5b6deea37303",
+      "git_blob_sha": "483cbe18b4aa609eabbcbf87b4af71a0e738b3a9"
+    },
+    {
+      "path": "seedance-20/references/json-schema.md",
+      "source_package": "seedance-20",
+      "bytes": 3256,
+      "sha256": "d937777e1315e808b188ff69e0a0749175f1ad43deffb7a6d85f7d826b50ac64",
+      "git_blob_sha": "11b4c96a6b1160b23064b2c4120c68307db8a2fa"
+    },
+    {
+      "path": "seedance-20/references/migrated/README.md",
+      "source_package": "seedance-20",
+      "bytes": 1808,
+      "sha256": "134fb47528ceaccdb82f4afae885de83842d7aae33f6f2c9a351452b36808fd2",
+      "git_blob_sha": "20c0a9fb373b4486289485009f53473eac62bb29"
+    },
+    {
+      "path": "seedance-20/references/migrated/seedance-antislop-original.md",
+      "source_package": "seedance-20",
+      "bytes": 13695,
+      "sha256": "fe2c9e766ef6ae18a4fa7b240a7b33c7cadd1f6dc0d1061a348cf92a2a7fdd34",
+      "git_blob_sha": "83a6e634ed28e870fa858ef3a152dba4d98826f2"
+    },
+    {
+      "path": "seedance-20/references/migrated/seedance-audio-original.md",
+      "source_package": "seedance-20",
+      "bytes": 16664,
+      "sha256": "7f6a27a274a961e099d662d01a52dfe2409df8fb93b215690b9d01fbe60ba251",
+      "git_blob_sha": "2cc2c6997c8f66c809daaa58e400d7550603f991"
+    },
+    {
+      "path": "seedance-20/references/migrated/seedance-copyright-original.md",
+      "source_package": "seedance-20",
+      "bytes": 13479,
+      "sha256": "9d395a363523d47e8d48dc6d24dfc3b49e30bf106a9153f99155fc838118130d",
+      "git_blob_sha": "a45ab528900da9b5fe5eb0f9ef590432ca0096c8"
+    },
+    {
+      "path": "seedance-20/references/migrated/seedance-examples-zh-original.md",
+      "source_package": "seedance-20",
+      "bytes": 8532,
+      "sha256": "31441084a6f7b844c7d98ea49419ec464bea4b12f60c64bfd8df6dd2a688ac11",
+      "git_blob_sha": "c612f4434618d940b0fe1169c66b5d81633cf218"
+    },
+    {
+      "path": "seedance-20/references/migrated/seedance-filter-original.md",
+      "source_package": "seedance-20",
+      "bytes": 28770,
+      "sha256": "c687a554a526897e71caac5511812c027d9a881060e0c23cb820c0c518e02872",
+      "git_blob_sha": "b6534202ffaa134b9f8c68c17d2c7fd1ff1403ba"
+    },
+    {
+      "path": "seedance-20/references/migrated/seedance-pipeline-original.md",
+      "source_package": "seedance-20",
+      "bytes": 3544,
+      "sha256": "dd96c3d95479e0c3aa3effe1fdccaba5899a844eb936f27e7f34c0792dd2520f",
+      "git_blob_sha": "95d99f745fbbb7c2f33df233ac985fce7927d359"
+    },
+    {
+      "path": "seedance-20/references/migrated/seedance-recipes-original.md",
+      "source_package": "seedance-20",
+      "bytes": 4089,
+      "sha256": "8273d362d636d1fb4e8e736cf4b356c88e09cc5d1a7b60d07079a5dfade75a16",
+      "git_blob_sha": "dd1c6d68d521018926ac1e87b4d20d852aead641"
+    },
+    {
+      "path": "seedance-20/references/migrated/seedance-vocab-es-original.md",
+      "source_package": "seedance-20",
+      "bytes": 14686,
+      "sha256": "01ffe5ab44fe518abede5a224b9d5a0b58e412443cdff9c279dd1716dc761797",
+      "git_blob_sha": "9413f9d2ebea811b5f1adaaab968d68c2d22e514"
+    },
+    {
+      "path": "seedance-20/references/migrated/seedance-vocab-ja-original.md",
+      "source_package": "seedance-20",
+      "bytes": 20067,
+      "sha256": "1fe758f5bdbf7c569cb8bca83e28b23da9225aa2063ba1c93bff696d4fb8c46b",
+      "git_blob_sha": "c42004707aa0b28bfb3df92b6a8a76def25de34b"
+    },
+    {
+      "path": "seedance-20/references/migrated/seedance-vocab-ko-original.md",
+      "source_package": "seedance-20",
+      "bytes": 18968,
+      "sha256": "6b8855c1d5c6a7f3d6c78d011441190c0a95713fac5cccc3c96a8e0107083d0e",
+      "git_blob_sha": "48d07bf5875c578acad8ee3691f937c70168c6fe"
+    },
+    {
+      "path": "seedance-20/references/migrated/seedance-vocab-ru-original.md",
+      "source_package": "seedance-20",
+      "bytes": 27850,
+      "sha256": "20a19cf7d193dbc8ff6814cd90b8d4efe912fe4444c135d191b5d971c3a9aeab",
+      "git_blob_sha": "56f963b669fe955ce440da8bbb342b57c9d8ab3f"
+    },
+    {
+      "path": "seedance-20/references/migrated/seedance-vocab-zh-original.md",
+      "source_package": "seedance-20",
+      "bytes": 20989,
+      "sha256": "6076d032a67a3e8ca1cc2a74a46bd7a989b672e49e260c2e9a14401a5ec212fc",
+      "git_blob_sha": "e3f45300ab08b0e407e31e90f6f59347c03a041f"
+    },
+    {
+      "path": "seedance-20/references/migrated/v5.2-legacy-skill-bodies/seedance-antislop.md",
+      "source_package": "seedance-20",
+      "bytes": 1531,
+      "sha256": "90e4ace99251d471f01349912a084a237ffaa7e67ca826927c3d530a3bd48ca6",
+      "git_blob_sha": "bdf5e165b7da08af181079b35ef824e6f1c7f1e5"
+    },
+    {
+      "path": "seedance-20/references/migrated/v5.2-legacy-skill-bodies/seedance-audio.md",
+      "source_package": "seedance-20",
+      "bytes": 1595,
+      "sha256": "fc868ad4969df1a8ed37e339e7504fc709488ad2cd2ac9b061338406b8621bec",
+      "git_blob_sha": "fb7f0fadd67eb91c86bad4b9e69248dbefe39eb6"
+    },
+    {
+      "path": "seedance-20/references/migrated/v5.2-legacy-skill-bodies/seedance-copyright.md",
+      "source_package": "seedance-20",
+      "bytes": 2017,
+      "sha256": "1b31d30fd3f81cfaa0800a42048f1e44e31ceb7711c68264736886e8a429ca35",
+      "git_blob_sha": "5e12d9a20312d5343ece700e61fea5005dabfc3e"
+    },
+    {
+      "path": "seedance-20/references/migrated/v5.2-legacy-skill-bodies/seedance-examples-zh.md",
+      "source_package": "seedance-20",
+      "bytes": 1391,
+      "sha256": "7458b57a3e57de858837c3fe280df260e043e1d44ec5575cbddb9e347bcd1e52",
+      "git_blob_sha": "23dd06528aecdb9aacdf615faa3299cb9d74a50d"
+    },
+    {
+      "path": "seedance-20/references/migrated/v5.2-legacy-skill-bodies/seedance-filter.md",
+      "source_package": "seedance-20",
+      "bytes": 1686,
+      "sha256": "e44b3ac307a7e7801f4624058d569512114c3c8066dd00f96a45d04d3ee9b074",
+      "git_blob_sha": "4d05afb6898acb06916ccaa39e39a8897036f6e7"
+    },
+    {
+      "path": "seedance-20/references/migrated/v5.2-legacy-skill-bodies/seedance-vocab-es.md",
+      "source_package": "seedance-20",
+      "bytes": 1392,
+      "sha256": "2069c674080ba94ddf8fdb95594097005d2b00c32c2d394670ea3094c4fb8700",
+      "git_blob_sha": "2b468fa51ba8aa40459ece4843071aeafdce92af"
+    },
+    {
+      "path": "seedance-20/references/migrated/v5.2-legacy-skill-bodies/seedance-vocab-ja.md",
+      "source_package": "seedance-20",
+      "bytes": 1378,
+      "sha256": "8777e13858afda5f30ed424a4b9dba593f9cf611e8f908bb84d9729dd8addef2",
+      "git_blob_sha": "8f7bcb081acdf603b6879d92a408f793dd391240"
+    },
+    {
+      "path": "seedance-20/references/migrated/v5.2-legacy-skill-bodies/seedance-vocab-ko.md",
+      "source_package": "seedance-20",
+      "bytes": 1366,
+      "sha256": "5140e58cee8b027b6036ac10d1bb15e9ec9690aef051e0c7f37f32a3fb1de13a",
+      "git_blob_sha": "84f8afe59440a041766ee5c4c8c6fc7540000464"
+    },
+    {
+      "path": "seedance-20/references/migrated/v5.2-legacy-skill-bodies/seedance-vocab-ru.md",
+      "source_package": "seedance-20",
+      "bytes": 1372,
+      "sha256": "72221ca5cf51187d83d68e0bf77875a9191792d58a6e05e9febfd07bf0d17586",
+      "git_blob_sha": "331cb6b0d72cc7d1a9e6f9ed61941f2c13e9765c"
+    },
+    {
+      "path": "seedance-20/references/migrated/v5.2-legacy-skill-bodies/seedance-vocab-zh.md",
+      "source_package": "seedance-20",
+      "bytes": 1373,
+      "sha256": "d8abf1e45b8464efefd2c1496186e572aa96c5fbe9429b628ecf88a7a7a70826",
+      "git_blob_sha": "ef5d055ba475f8c63225d126e9a512d54f27af35"
+    },
+    {
+      "path": "seedance-20/references/model-mechanics.md",
+      "source_package": "seedance-20",
+      "bytes": 7054,
+      "sha256": "d703f2ab7d756d0ed1c0bb82017dd71dfd1fd0ecf2cebcf76c8378f25a9d2ff4",
+      "git_blob_sha": "08aa4646881af56267c9dafcc549b327d9dde140"
+    },
+    {
+      "path": "seedance-20/references/model-name-map.md",
+      "source_package": "seedance-20",
+      "bytes": 9146,
+      "sha256": "815cce6d46eecaec2217d7c76be5cf737db0520575f5d3a7f562d1d5749850ef",
+      "git_blob_sha": "d562a14284ef2eaa2246fd150e649c4f1afcd222"
+    },
+    {
+      "path": "seedance-20/references/multilingual-community-examples.md",
+      "source_package": "seedance-20",
+      "bytes": 11346,
+      "sha256": "4d5da3b83718f12ee67e9ae775f2ec2fc8515ddc03afe9c7f462f46ec941dfb4",
+      "git_blob_sha": "3ee3bdccabc4b495a3d1929a8724ffde6d34cbfb"
+    },
+    {
+      "path": "seedance-20/references/multilingual-native-review.md",
+      "source_package": "seedance-20",
+      "bytes": 16615,
+      "sha256": "214fb2dcf10ef24195ee16873f43b86b6edccf9bbda0c868b65f3bfeafec2e16",
+      "git_blob_sha": "6d3701d0b36461c8500bf8f7de648ee55bcc8bff"
+    },
+    {
+      "path": "seedance-20/references/multishot-grammar.md",
+      "source_package": "seedance-20",
+      "bytes": 4166,
+      "sha256": "9bab2f08d681f246bb60e31696714b7d9b4104cc97dfbb7eed34a78e18c19fdd",
+      "git_blob_sha": "e236fd7ab0dc231fd69f54c69ed99f0923951a62"
+    },
+    {
+      "path": "seedance-20/references/platform-constraints.md",
+      "source_package": "seedance-20",
+      "bytes": 1824,
+      "sha256": "955b02a35b090cbec2358bc4e7ce19eac5233c9857f2edaff0c32dd33c7ff8b6",
+      "git_blob_sha": "630c7f879238723ac554ecf63f784848064a21e3"
+    },
+    {
+      "path": "seedance-20/references/platform-surface-matrix.md",
+      "source_package": "seedance-20",
+      "bytes": 10500,
+      "sha256": "44043bf4e933524e963ab4e0d19f05ae356e74d3995af0a9f6af61542e628ff9",
+      "git_blob_sha": "c879a0acdbfd923173a67237edef5a431d4e6c6e"
+    },
+    {
+      "path": "seedance-20/references/pro-filmmaking-standards.md",
+      "source_package": "seedance-20",
+      "bytes": 4441,
+      "sha256": "cf66cdff1438ddd59e0d361e41685196964018f47fd6d7da3fbb3e09fd2f9a90",
+      "git_blob_sha": "5cd36b4a585966ba7992deda743b9dc9606e53b1"
+    },
+    {
+      "path": "seedance-20/references/progressive-disclosure.md",
+      "source_package": "seedance-20",
+      "bytes": 3652,
+      "sha256": "a882215249063b94d68dc8fb9ebe29936e43d133974d7c284d9af7c6c8ff47de",
+      "git_blob_sha": "417665a9b1f9b011f74e2f8b92ce81df81f4a9bc"
+    },
+    {
+      "path": "seedance-20/references/prompt-compiler.md",
+      "source_package": "seedance-20",
+      "bytes": 7838,
+      "sha256": "3fb3bd667a3db0ded4d374d5f21810b67089ec4f97b250d1938497701d1d6218",
+      "git_blob_sha": "3476168b0d405ab4ab3270df97bf36d64547292c"
+    },
+    {
+      "path": "seedance-20/references/prompt-examples.md",
+      "source_package": "seedance-20",
+      "bytes": 14445,
+      "sha256": "74a718e2123c3cd11ed596307aa4fb679fb859aef13d17b3db2e055a47ce6718",
+      "git_blob_sha": "466ae2b68259f20a629ddaa88fd9d7c0e2eba71c"
+    },
+    {
+      "path": "seedance-20/references/quick-ref.md",
+      "source_package": "seedance-20",
+      "bytes": 2465,
+      "sha256": "2bedb30e9da778f8bf557e92024bc14ac2df6f44711cb32ccc86d4ecc125c3fb",
+      "git_blob_sha": "bfe2d3ad73c582c7393c1dd15227589310d3a695"
+    },
+    {
+      "path": "seedance-20/references/reference-transfer-contract.md",
+      "source_package": "seedance-20",
+      "bytes": 1887,
+      "sha256": "f8523b810f7be505c6cd978cdafe2313f8ab5a179ad9b707c401d2dfc1f4f252",
+      "git_blob_sha": "2c487a376df28c207553ce65d9695739d50a2a3e"
+    },
+    {
+      "path": "seedance-20/references/reference-workflow.md",
+      "source_package": "seedance-20",
+      "bytes": 5900,
+      "sha256": "a91e9f1b9ff46c92d92a35010fa30da59fe0a04ab065ee0b47b24c26e0bca675",
+      "git_blob_sha": "9d7ea5af44592522cff1a3c5b4b2a276a72c4001"
+    },
+    {
+      "path": "seedance-20/references/research-2026-05-30.md",
+      "source_package": "seedance-20",
+      "bytes": 6551,
+      "sha256": "569283eb27de4fb86320fe524d861ad3c9d32578b08879a859520fe389f34df5",
+      "git_blob_sha": "614bc841cd0107b2236d04e4753c5f278c90514c"
+    },
+    {
+      "path": "seedance-20/references/retake-protocol.md",
+      "source_package": "seedance-20",
+      "bytes": 4328,
+      "sha256": "3d57cdb9c6c0f0a788238859bebb54ef72d1723ddc9ebd2bb43b6fc08edb61b2",
+      "git_blob_sha": "da3368356d3d809463a698f64d3ca5a08f4e8d7c"
+    },
+    {
+      "path": "seedance-20/references/sequence-project-state.md",
+      "source_package": "seedance-20",
+      "bytes": 19964,
+      "sha256": "5420106f7e5f7b31ce9cbc0228ea8284ea003846e1fb2b3438334444c6081ad9",
+      "git_blob_sha": "53ee099a322d9d6f22f2139da51011d1664ce1bf"
+    },
+    {
+      "path": "seedance-20/references/sequence-worked-trace.md",
+      "source_package": "seedance-20",
+      "bytes": 7243,
+      "sha256": "1cda41401098281236ab74398455ca05b751ca5f9c7bb6b7faf4190a3dd1d3e0",
+      "git_blob_sha": "ca20b50a41422259419eeba3571a450a2a91efc4"
+    },
+    {
+      "path": "seedance-20/references/shot-list-continuity.md",
+      "source_package": "seedance-20",
+      "bytes": 4116,
+      "sha256": "b5198924d1b1f236860be3568c9e55069f0da4f4a80b3ba3f03e6dc9a8899061",
+      "git_blob_sha": "af684c792d438e119c55c0c657c383315ac60c2b"
+    },
+    {
+      "path": "seedance-20/references/source-registry.md",
+      "source_package": "seedance-20",
+      "bytes": 16342,
+      "sha256": "ee07eaa544b40fd8f0369813b9aa80e5cff9d365b20369a682dd58134e179925",
+      "git_blob_sha": "166e79154b9c547d503e4defaefae50e1f0118b2"
+    },
+    {
+      "path": "seedance-20/references/storytelling-framework.md",
+      "source_package": "seedance-20",
+      "bytes": 2412,
+      "sha256": "658099155a600b755da852db13aef7bcd295f1e09f804f041f7f102f8a3398b1",
+      "git_blob_sha": "b5eeb6fbb7f4d143fe6326fb27956699f869b047"
+    },
+    {
+      "path": "seedance-20/references/subtitles-localization.md",
+      "source_package": "seedance-20",
+      "bytes": 2974,
+      "sha256": "25d63be0c09cc28841503a02c0077d4db20c8fbdd38306d32b1d4061c326e04b",
+      "git_blob_sha": "b9f7040211c25e14fdf741f0480acca5f2a72530"
+    },
+    {
+      "path": "seedance-20/references/surface-prompt-profiles.md",
+      "source_package": "seedance-20",
+      "bytes": 1296,
+      "sha256": "125133c4f1a00fa8a7e51aaae974e7023d1de609b76708a8d906fef66f97569f",
+      "git_blob_sha": "68c0b75179e3e3d7dd65b03d43dd54d231ca1946"
+    },
+    {
+      "path": "seedance-20/references/sync-budget-protocol.md",
+      "source_package": "seedance-20",
+      "bytes": 5294,
+      "sha256": "2caf112224de88dea5b9e965d599f1d83ab23c5456ca665f9d9d655c3cbf07c6",
+      "git_blob_sha": "99d003ca3578529e489469ee295477fd7e3859e5"
+    },
+    {
+      "path": "seedance-20/references/vocab/en.md",
+      "source_package": "seedance-20",
+      "bytes": 7084,
+      "sha256": "616248e96d898cdff2733bbd600fce648f2bd578ed5d528234ce52eade241370",
+      "git_blob_sha": "60869c0702a1a7276aa167b564d3708ae5c4e086"
+    },
+    {
+      "path": "seedance-20/references/vocab/es.md",
+      "source_package": "seedance-20",
+      "bytes": 6590,
+      "sha256": "d5bdc96283d012ba0ae6ffd015a86840dd06264a751bd7811bda660281ada693",
+      "git_blob_sha": "59c8628969eaf0b740f669d3a389186533caa1b4"
+    },
+    {
+      "path": "seedance-20/references/vocab/ja.md",
+      "source_package": "seedance-20",
+      "bytes": 15078,
+      "sha256": "c78d4840fc6014950e0e8ec0777e647c9a9920bddb07044aed2fd963f4a3c76e",
+      "git_blob_sha": "9f8139295c471404001a6f7839533aa30381904b"
+    },
+    {
+      "path": "seedance-20/references/vocab/ko.md",
+      "source_package": "seedance-20",
+      "bytes": 14160,
+      "sha256": "fb2125279bac818aed33adfc256c1281cbcaf0ae8d15fac5d668b2e1ada42eb9",
+      "git_blob_sha": "da0a7686ce2ce3901b2b59ca4a408030e68c73e6"
+    },
+    {
+      "path": "seedance-20/references/vocab/ru.md",
+      "source_package": "seedance-20",
+      "bytes": 10265,
+      "sha256": "e22b5ad542a94853503026a303cc13cfd2b91c7452e6eb4c99aa859ff93c40f9",
+      "git_blob_sha": "82d447f99247db562b13829395f0ecc1894da94d"
+    },
+    {
+      "path": "seedance-20/references/vocab/zh.md",
+      "source_package": "seedance-20",
+      "bytes": 13414,
+      "sha256": "2526ad00f8d64f0bb3f5231b80ab67ccb291fe501dc406c0ca6a378fb2122f52",
+      "git_blob_sha": "c09e028be7c58f89e912557ab76c6edbf7469d13"
+    },
+    {
+      "path": "seedance-20/requirements-masthead.lock",
+      "source_package": "seedance-20",
+      "bytes": 2973,
+      "sha256": "bd7187005d023d73fce7fb2df2d7d962df696d3044312618a79c6dceb982346f",
+      "git_blob_sha": "9080468763f4cf1e2e7f69748c2faea23fe8dcfc"
+    },
+    {
+      "path": "seedance-20/requirements-validation.lock",
+      "source_package": "seedance-20",
+      "bytes": 2774,
+      "sha256": "5c417cdc3968bc785c5d33b601f49ce6841e012b10c4425d2cb2b6dd4b617a5c",
+      "git_blob_sha": "97f7930653dccf4f809a0c036f90cd9ba3a94136"
+    },
+    {
+      "path": "seedance-20/schemas/clip-contract.schema.json",
+      "source_package": "seedance-20",
+      "bytes": 10614,
+      "sha256": "b9df0313678dc7bee2440b609df35cea5b8dbdfbe4f1f07b56d444da74b79175",
+      "git_blob_sha": "f1d31ae540e4a797d6304be3b1bc125c588ba1b0"
+    },
+    {
+      "path": "seedance-20/schemas/generation-run.schema.json",
+      "source_package": "seedance-20",
+      "bytes": 936,
+      "sha256": "b48cc7c2cd7f30406c80561a93d3a28449834ccbf2374546013edb2a0fedb92e",
+      "git_blob_sha": "ea2473cad4f7a5e3b76bae3c6234d5060b03f8df"
+    },
+    {
+      "path": "seedance-20/schemas/project-state.schema.json",
+      "source_package": "seedance-20",
+      "bytes": 15883,
+      "sha256": "42285f2b21e57cac0f52d4853816ff5fdebeae6856b72623dd959230067e554f",
+      "git_blob_sha": "2b0a037772327b9400326ab2eeb143bf5101cefc"
+    },
+    {
+      "path": "seedance-20/schemas/prompt-spec.schema.json",
+      "source_package": "seedance-20",
+      "bytes": 1387,
+      "sha256": "b7fea59647e2c6b5739f8938896bfe64e6a6b344a55286b064795f678d74c102",
+      "git_blob_sha": "f8e2e95a6ecd064dc348a618c36f10e72a5d65e0"
+    },
+    {
+      "path": "seedance-20/schemas/take-review.schema.json",
+      "source_package": "seedance-20",
+      "bytes": 1987,
+      "sha256": "426ba4b52a23bdd94d95c084089be050b40ae0ed67ecf540dd99c4ed6f0b57c8",
+      "git_blob_sha": "af4dc5ad4e93d4c6784ee72c1a85843f3391ef8f"
+    },
+    {
+      "path": "seedance-20/scripts/__init__.py",
+      "source_package": "seedance-20",
+      "bytes": 1583,
+      "sha256": "b65600a6dc6b30e970708dceb74c5b102cfe2bbc1b8790509a3e7aee293e7188",
+      "git_blob_sha": "8d5e8edd9409d849c4d7470357a965c7fdc54d6a"
+    },
+    {
+      "path": "seedance-20/scripts/behavior_contract_check.py",
+      "source_package": "seedance-20",
+      "bytes": 24758,
+      "sha256": "de1345f430a90e23ed103d5676928291fe22f4a3c168b2bd56633a9ffd6bbf60",
+      "git_blob_sha": "7278166f4e38693b5151f61de53f23892bf1f8d0"
+    },
+    {
+      "path": "seedance-20/scripts/build_hero.py",
+      "source_package": "seedance-20",
+      "bytes": 11846,
+      "sha256": "0f73e46af7375f2f2d09001673b77cb53baea31744a9bacae35dd07dd9d770fa",
+      "git_blob_sha": "97d697d905099c7a9e98045b95abdd3710e91683"
+    },
+    {
+      "path": "seedance-20/scripts/build_masthead_outlines.py",
+      "source_package": "seedance-20",
+      "bytes": 66910,
+      "sha256": "cf6108b2bca9df265fc9f9e457f57f99cc568e19f757cb9cc9e2933448149f1f",
+      "git_blob_sha": "cbc9d608e50ca8004d87efc6b5c082f67fe86371"
+    },
+    {
+      "path": "seedance-20/scripts/content_audit.py",
+      "source_package": "seedance-20",
+      "bytes": 3507,
+      "sha256": "bab9ec0578aaafbe77d4c1a9b87d46bfce9d4d53622b3b1940876db83b3e35c3",
+      "git_blob_sha": "9bc28c230e61ce933fdfbf9c744df70584bdfeae"
+    },
+    {
+      "path": "seedance-20/scripts/continuity_chain_check.py",
+      "source_package": "seedance-20",
+      "bytes": 101560,
+      "sha256": "9c3931912659fb379b0222e0d1819bbd621bcb3d14f231e96fa9a01694daee83",
+      "git_blob_sha": "89669a201c102d19940e346abe113681c30ea392"
+    },
+    {
+      "path": "seedance-20/scripts/design_audit.py",
+      "source_package": "seedance-20",
+      "bytes": 8045,
+      "sha256": "6e2c81d38c9d3f9d703de163da3595fb405d84fd1f5487e0344f4cc07026421f",
+      "git_blob_sha": "712d2a83f680b5666ba60d02e8378801edc90416"
+    },
+    {
+      "path": "seedance-20/scripts/eval_run.py",
+      "source_package": "seedance-20",
+      "bytes": 208650,
+      "sha256": "3a9467f0dea0b664398398dc6790296d6c2320a0389dc9adbbd8607f5514ecfe",
+      "git_blob_sha": "2f168d089b01bbf0e4c72b8dc292afd4bc8f5ebb"
+    },
+    {
+      "path": "seedance-20/scripts/eval_schema_check.py",
+      "source_package": "seedance-20",
+      "bytes": 6980,
+      "sha256": "4947a2da1f683d6590346cc3430be6a1f734f23699629213b54f0cd6a996bc64",
+      "git_blob_sha": "299fc1de520286453ea8514445baac710a6ddf17"
+    },
+    {
+      "path": "seedance-20/scripts/extract_last_frame.py",
+      "source_package": "seedance-20",
+      "bytes": 128650,
+      "sha256": "7a91dfc8a12359ebb9d68f79d4c2d12ade64f1feb7d4929372e5c4a4ffa35241",
+      "git_blob_sha": "4022d3b29ce4cd8390b12cf534e0c0dd75161647"
+    },
+    {
+      "path": "seedance-20/scripts/generation_run_check.py",
+      "source_package": "seedance-20",
+      "bytes": 3058,
+      "sha256": "1f6b5e13a1a52b199f4236515ee20bd8a0ef9b09edf590a37c1298b57c6485b1",
+      "git_blob_sha": "b84bcb1ce51915231a8eb4847dfb97c76099ddc5"
+    },
+    {
+      "path": "seedance-20/scripts/install_codex_skill.py",
+      "source_package": "seedance-20",
+      "bytes": 244445,
+      "sha256": "06f75e680c6a637a03a365069b1ad1a2a9d250ce575af4dc096baaf8f5ed8eb2",
+      "git_blob_sha": "553a5a79f86c1689f0edbdb774d9ea73669271ff"
+    },
+    {
+      "path": "seedance-20/scripts/lineage_contract.py",
+      "source_package": "seedance-20",
+      "bytes": 38994,
+      "sha256": "635f9bb5b1c81351626e74399c95b23ed26aa75374a3f639734be2a76b8f544d",
+      "git_blob_sha": "78695b59d9284dec67690a4bea7e0b36d012ab77"
+    },
+    {
+      "path": "seedance-20/scripts/project_state_check.py",
+      "source_package": "seedance-20",
+      "bytes": 118151,
+      "sha256": "16f776ddead497de2e2390666cb1d096e5ab9e916240ee5d6aff30c6523f73eb",
+      "git_blob_sha": "c867c029d22c785ef44e8a837a9188965dc1b9ea"
+    },
+    {
+      "path": "seedance-20/scripts/prompt_architecture_stress.py",
+      "source_package": "seedance-20",
+      "bytes": 225864,
+      "sha256": "00b861cd023febb8e6b204fa9967ad94f3770ef40a163019b8e6f71a2946d6a6",
+      "git_blob_sha": "6dd9d755b622b575864c7fa77f30c8ca5d119538"
+    },
+    {
+      "path": "seedance-20/scripts/prompt_lint.py",
+      "source_package": "seedance-20",
+      "bytes": 47256,
+      "sha256": "3f5d404ae5a4252d9733698adeef0304e56981286e314f8bca19522d4d5a0559",
+      "git_blob_sha": "ce3457b8604f37b5280c3e6826d31169fb05a02c"
+    },
+    {
+      "path": "seedance-20/scripts/schema_check.py",
+      "source_package": "seedance-20",
+      "bytes": 17932,
+      "sha256": "ad19f35ae2e3bbc52ebd8ddd025455ec3a018fb092df5cb49dd4ce39ff33a97e",
+      "git_blob_sha": "0e031b4103c50ee3b08d01ff519a0d4a9997eb61"
+    },
+    {
+      "path": "seedance-20/scripts/sequence_eval_check.py",
+      "source_package": "seedance-20",
+      "bytes": 4351,
+      "sha256": "11b9b9554fab39c1f64beaf9f842da396bfa4ec90bd9bb4972f56debce748dd2",
+      "git_blob_sha": "7284333f25258603b8183f90897d9d91002c0034"
+    },
+    {
+      "path": "seedance-20/scripts/source_registry_check.py",
+      "source_package": "seedance-20",
+      "bytes": 12136,
+      "sha256": "ca370236b190a13faa6c565293cd6ea6070668f8d66ce8f7b986091547bca499",
+      "git_blob_sha": "3bcba99ca44f5c8f164b1d7169d838e2327dba97"
+    },
+    {
+      "path": "seedance-20/scripts/strict_json.py",
+      "source_package": "seedance-20",
+      "bytes": 30195,
+      "sha256": "c21997dee29baff7f0362040d896e312cc917703e1ebb76bba89be34d908bbf1",
+      "git_blob_sha": "916b0651e4e870f6674bee9a46198090f4a47321"
+    },
+    {
+      "path": "seedance-20/scripts/validate_repo.py",
+      "source_package": "seedance-20",
+      "bytes": 7867,
+      "sha256": "d6053b88c0198d3193d59aed0b23602a991c5ceebe9220a24bf6d7f6323e4955",
+      "git_blob_sha": "a34ba60573241ea24fcfd36600d77c750adc75fc"
+    },
+    {
+      "path": "seedance-20/scripts/validate_skills.py",
+      "source_package": "seedance-20",
+      "bytes": 37200,
+      "sha256": "716d892628cf7b2605b5e9fbb053e71492444afc6b12a7a62c3e46f06800aba2",
+      "git_blob_sha": "3b44b9daf69e3216260ca4a4ceff1aef90dc21f6"
+    },
+    {
+      "path": "seedance-20/scripts/vocab_schema_check.py",
+      "source_package": "seedance-20",
+      "bytes": 81038,
+      "sha256": "93acb3ab1149eee3dd3e6332587bc5cb5749f7a13629cc36eaf565207b702a34",
+      "git_blob_sha": "3a7564c787147fcf9b306746a7bb487928b5c324"
+    },
+    {
+      "path": "seedance-20/skills/seedance-antislop/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 4825,
+      "sha256": "b8d2cfbe073bf7443c6c7584227876d3d46e7f8f9fc1f77f74f9fabda20c1839",
+      "git_blob_sha": "291685084ac97c8f193238e65cea4ffc592c1d19"
+    },
+    {
+      "path": "seedance-20/skills/seedance-audio/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 5184,
+      "sha256": "e6f41152af30f1d9248cb83c53a531d2af6494a4af91ed2755b51097a6d13438",
+      "git_blob_sha": "e5b5dcf1952ebfec94b0db7ae4b33743e450b592"
+    },
+    {
+      "path": "seedance-20/skills/seedance-camera/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 5157,
+      "sha256": "1fbc80be6006ba2b9d9b96ba045688e9a8a710d112a93ccd01795ddb619d2628",
+      "git_blob_sha": "8e59eb115ae488215efb6378ae1d78c404f589c8"
+    },
+    {
+      "path": "seedance-20/skills/seedance-characters/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 4758,
+      "sha256": "1db60a2e0f427573f889135c46b84875935d0d4a978fb3a36de71f5cf6642d9d",
+      "git_blob_sha": "db2ece3132adf51a1a8d28d0406c27679a27cf52"
+    },
+    {
+      "path": "seedance-20/skills/seedance-continuation/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 8128,
+      "sha256": "8029af2d99b3ea6f629c1b1f5cfd7516d96d61b193494706061b745534c8dc82",
+      "git_blob_sha": "bc4226e7ca0b77457390717181c863b8564c9af6"
+    },
+    {
+      "path": "seedance-20/skills/seedance-copyright/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 3719,
+      "sha256": "00f62eab53c7c1a20df7431b2839d74615c57bc732eafa0aadfae4ee72982afe",
+      "git_blob_sha": "ef9d42ca5121d540b7a7747d67fd9119f43255e1"
+    },
+    {
+      "path": "seedance-20/skills/seedance-examples-ja/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 4563,
+      "sha256": "f1ac8498697f40f9a4b78401868bc13a9b3154864f72cfa27c9e357db43618a0",
+      "git_blob_sha": "143bbeed0e8485f98c1fb713a170536e8be8247f"
+    },
+    {
+      "path": "seedance-20/skills/seedance-examples-ko/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 4598,
+      "sha256": "19633d37bb759c8493d976744906ba2288351718f7fd1c064d3c52d87bdbf919",
+      "git_blob_sha": "48bae1f7c7a4688296b70f2f3e9397af609cd4d2"
+    },
+    {
+      "path": "seedance-20/skills/seedance-examples-zh/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 5084,
+      "sha256": "51ddd2139b43ad3a272a2ac6347645c98dedf5f48b944f1a741d3e25380fcef2",
+      "git_blob_sha": "3291e109aec2077f78186699b9cacff137412be2"
+    },
+    {
+      "path": "seedance-20/skills/seedance-filter/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 4484,
+      "sha256": "343d3d47d12cb0d1732177402476bfe94f0bcc3f9b79c5043dd7c2b97e8bc3d0",
+      "git_blob_sha": "c839da736b1f2d3906d06ee9389a4aad74cbac6e"
+    },
+    {
+      "path": "seedance-20/skills/seedance-interview-short/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 5399,
+      "sha256": "a14ae92b52afd2903059d2eee6559ef73001abfbf66bc80341b5329508175f76",
+      "git_blob_sha": "4c1cbccc4f80025e0a24ba0d9d78bf1c4a541be7"
+    },
+    {
+      "path": "seedance-20/skills/seedance-interview/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 16282,
+      "sha256": "cc6dd4994bc5df8c4c16c883b46fe03ba16b21cfc98b1d8b1a587c58be91e6b3",
+      "git_blob_sha": "1494dea9983b483440dce217916c8c1884802964"
+    },
+    {
+      "path": "seedance-20/skills/seedance-lighting/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 4409,
+      "sha256": "def5981f5d9aa752720e07cc6125425139c29945c82988b082287e273e29001b",
+      "git_blob_sha": "085ff9ae8b169bebc72dc13b8ed4d62516eda1ec"
+    },
+    {
+      "path": "seedance-20/skills/seedance-motion/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 5326,
+      "sha256": "b0c9d4bc9b84f34be6180dc4ecdf28725244d0879b309bbd5bc0f24508bf1a05",
+      "git_blob_sha": "4e2aadddffe85273bf622b499e8130634302da75"
+    },
+    {
+      "path": "seedance-20/skills/seedance-pipeline/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 3660,
+      "sha256": "d54099c3c65c97fdc7f37346a4298078cd7dc7b0c07038ed2cd47cd2af85c283",
+      "git_blob_sha": "53d8e9e5a2f83f2158222216ac3fc92570098722"
+    },
+    {
+      "path": "seedance-20/skills/seedance-prompt-short/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 4008,
+      "sha256": "3225ea5b3dd377112ac60e7edb12dbe97e687b620f5a0ef8124b60cc517794a7",
+      "git_blob_sha": "87848370226aa03c2e3af96b476667b824cc9102"
+    },
+    {
+      "path": "seedance-20/skills/seedance-prompt/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 9634,
+      "sha256": "16d9a9cdb3c966e4233984bfa7b602b2ab9a3c3c8817b5689b8e7b696f429c8a",
+      "git_blob_sha": "74f9534dce73f16e9447b4941b1d73fa09237c01"
+    },
+    {
+      "path": "seedance-20/skills/seedance-recipes/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 5903,
+      "sha256": "4fff2eac9795f72b366ba617a0c7616b053954e1202f83ccf08cafbf3ab18677",
+      "git_blob_sha": "1af5d3f3eaf58f40736e6b240fe254f87e9e4370"
+    },
+    {
+      "path": "seedance-20/skills/seedance-sequence/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 10189,
+      "sha256": "23a6525f57eb87e7cfc0b8bfa5c18e02e3e6ccc9070dff5f0407eb7f0f72ad4b",
+      "git_blob_sha": "c8b24e708e297c0f1a13424725bf31e7e8a32654"
+    },
+    {
+      "path": "seedance-20/skills/seedance-style/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 4964,
+      "sha256": "da9ca0c0755216f3b0cbfcf796b3c0b31a3d9df85c9ffd614657d658bedcd3e8",
+      "git_blob_sha": "fc8ff2d4e727c1473a384c618b716cadb0c155be"
+    },
+    {
+      "path": "seedance-20/skills/seedance-troubleshoot/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 6823,
+      "sha256": "9dc0381181afa9460083864579f440b75c59c37e440b987c7481a83ca99b2cbc",
+      "git_blob_sha": "e302fc6f628b851dbdd6474e7a772ea04cdb4297"
+    },
+    {
+      "path": "seedance-20/skills/seedance-vfx/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 3248,
+      "sha256": "dc4d91d1acd543a4f33ea2b938a0fd11db7be8950c8e9e7287667f09b4506979",
+      "git_blob_sha": "0fec1b9466805045ec763a400177f98272d50114"
+    },
+    {
+      "path": "seedance-20/skills/seedance-vocab-en/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 4096,
+      "sha256": "9cd5c100bea9152f5bcfb29b6c41cc8c1226ab5291a1073f79f652cc8a31930a",
+      "git_blob_sha": "6234ea5aa146004fe0b1c1093e08e4489f19e98b"
+    },
+    {
+      "path": "seedance-20/skills/seedance-vocab-es/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 2953,
+      "sha256": "56f8d9a98606183eb716dc19c6c6caf7be107bc970db54a01f48c79b340c8468",
+      "git_blob_sha": "ef1fe555b4ed33630936fd9c3b2799b0a2e9c69f"
+    },
+    {
+      "path": "seedance-20/skills/seedance-vocab-ja/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 3554,
+      "sha256": "eccce36c130efe126c25e16f312dd0794b88176a262d7944e5a828edb2fe9e25",
+      "git_blob_sha": "71f5927261b73b92fc0cd2ed65bc53984907e95b"
+    },
+    {
+      "path": "seedance-20/skills/seedance-vocab-ko/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 3452,
+      "sha256": "15fcecae9550395abd2bfed959e40e970a3e5e619df676137261db85758bd817",
+      "git_blob_sha": "0b7a3a348d4b86ea2520b7f351c47dfe47ef6a58"
+    },
+    {
+      "path": "seedance-20/skills/seedance-vocab-ru/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 4328,
+      "sha256": "c7b5eee164753475387adb4eda410a0bf6736726f24a4ef449fac4e76171e079",
+      "git_blob_sha": "c30f0ccb6204868a15932fefe75499d9f4191971"
+    },
+    {
+      "path": "seedance-20/skills/seedance-vocab-zh/SKILL.md",
+      "source_package": "seedance-20",
+      "bytes": 3675,
+      "sha256": "a24b47bdcafb54b990c7237e27693742c58fa7b50cc9841445fe7a3f5f00f3d2",
+      "git_blob_sha": "64abcd402d922fbd2b4c4cb4ce4eeadfbe5786d2"
+    },
+    {
+      "path": "seedance-20/tests/test_authoring_state.py",
+      "source_package": "seedance-20",
+      "bytes": 95605,
+      "sha256": "0c241b3212a1a9d6a878bc5b63b9b268d00075289d710dffe295d47adfc5ef26",
+      "git_blob_sha": "147b855f20fb2d5e643e0367e140693d21f88308"
+    },
+    {
+      "path": "seedance-20/tests/test_behavior_contract.py",
+      "source_package": "seedance-20",
+      "bytes": 574,
+      "sha256": "d40b3c888bb262c94ec116c9344bd58f1d14b675b330ae1d1c006f69857e5f00",
+      "git_blob_sha": "479b75fba4852b6f7dce91fe483996d6816bc966"
+    },
+    {
+      "path": "seedance-20/tests/test_build_hero.py",
+      "source_package": "seedance-20",
+      "bytes": 63442,
+      "sha256": "14bc8403bf1a43709efd155c6a075e1b6294715e3721bdfdca8d441839dc9a04",
+      "git_blob_sha": "caa33dd9bd4c4dd486a202bf1ce9b41c64b7c5ad"
+    },
+    {
+      "path": "seedance-20/tests/test_client_install_guidance.py",
+      "source_package": "seedance-20",
+      "bytes": 6119,
+      "sha256": "9d88018edce64edee37aad8c094f54a6eb44a2783fedc10cb7d8d103bae7c4f7",
+      "git_blob_sha": "6c16f91e2ca36289d615f20c327bb91a9c84f458"
+    },
+    {
+      "path": "seedance-20/tests/test_continuity_chain.py",
+      "source_package": "seedance-20",
+      "bytes": 167092,
+      "sha256": "adfb26d4c9881c0fab54a0a9b9d564bdb6ba98bfadc81aa5822ea5f21b777e22",
+      "git_blob_sha": "8f8386b1ee44ac838a27c11679fe30bcb4b1eb5a"
+    },
+    {
+      "path": "seedance-20/tests/test_directors_read_contract.py",
+      "source_package": "seedance-20",
+      "bytes": 11305,
+      "sha256": "e45ac000b5a0379698f9019468267a38b10e12fe56d8b4b8efddd558fcb6f1c6",
+      "git_blob_sha": "c40cd17ec61d6425aceebef15e8d976a31fabaf4"
+    },
+    {
+      "path": "seedance-20/tests/test_eval_judge_contracts.py",
+      "source_package": "seedance-20",
+      "bytes": 24645,
+      "sha256": "275f06d1c0e5ca2f4e8eb1ae21da5a226a59f780fb289f1388df5c124fb6aa3d",
+      "git_blob_sha": "e2fdb099cca8e38f9275ed704a99c5e295b2e13e"
+    },
+    {
+      "path": "seedance-20/tests/test_eval_run.py",
+      "source_package": "seedance-20",
+      "bytes": 44885,
+      "sha256": "0f6526185ef3ef47efa74f3155b3cdbce0392398684f62d3c84cedefd07debe4",
+      "git_blob_sha": "9600b3c354332bc4bb7ce1a27a0628a0b18c9cb0"
+    },
+    {
+      "path": "seedance-20/tests/test_eval_run_discovery.py",
+      "source_package": "seedance-20",
+      "bytes": 53805,
+      "sha256": "0dfda26ceda56b599a0f264b3f459fbdc02cf2724731d66d94d580418fbdf8e6",
+      "git_blob_sha": "0dad3cf0e9634298c427fbad8c2e413d135d0d74"
+    },
+    {
+      "path": "seedance-20/tests/test_eval_run_integrity.py",
+      "source_package": "seedance-20",
+      "bytes": 140871,
+      "sha256": "321d93f781602d9540a9c0043a9cb03aa300809633f464b796564742cd528914",
+      "git_blob_sha": "39467e332f665bbf4b508e215f825db75359f5ac"
+    },
+    {
+      "path": "seedance-20/tests/test_extract_frame_output_policy.py",
+      "source_package": "seedance-20",
+      "bytes": 128130,
+      "sha256": "d9aed89ce5ad87fbdbba7504e337bc8f345c82a306b1ddeb300f3c0c1dbc8697",
+      "git_blob_sha": "20710d00406f6e09106c114abee98a9bdb20ecaa"
+    },
+    {
+      "path": "seedance-20/tests/test_extract_last_frame.py",
+      "source_package": "seedance-20",
+      "bytes": 6502,
+      "sha256": "01d939b0060f7cc513b9101f32ba4bca7783dac50eb7e81123052156562b9c7a",
+      "git_blob_sha": "fe89359234632c0db16f6b5ec57f1fbb30795c46"
+    },
+    {
+      "path": "seedance-20/tests/test_generation_run_check.py",
+      "source_package": "seedance-20",
+      "bytes": 572,
+      "sha256": "c7ba091dd2ce3038d02498871de675a1ecb05c822c8bdf93265f6ee67b9125dc",
+      "git_blob_sha": "264568c868691c8886b1c90db6af101cdda15c05"
+    },
+    {
+      "path": "seedance-20/tests/test_install_atomic.py",
+      "source_package": "seedance-20",
+      "bytes": 136176,
+      "sha256": "1fedfc4dfca5cb170208e7485d128784d92ba47867bf91930c1d48fae9aa1a76",
+      "git_blob_sha": "5a0cd84a66249717b309257ed3243db68ec54c85"
+    },
+    {
+      "path": "seedance-20/tests/test_install_long_paths.py",
+      "source_package": "seedance-20",
+      "bytes": 25312,
+      "sha256": "f04d591be39b770b9cb45615e146dd9be26f96c352522f0ffcc8502e3b3cd46c",
+      "git_blob_sha": "3bfc5ee56d9da55b046176d2226f436ba2e4572e"
+    },
+    {
+      "path": "seedance-20/tests/test_install_payload.py",
+      "source_package": "seedance-20",
+      "bytes": 86643,
+      "sha256": "62b68e6f0cb52eb09d536d0f63a76c321e29adf0d2d0c7f9104a8480ae2f95af",
+      "git_blob_sha": "cba0da066efb9d70a09dfb1ae8c695d345c49211"
+    },
+    {
+      "path": "seedance-20/tests/test_installer_output.py",
+      "source_package": "seedance-20",
+      "bytes": 10588,
+      "sha256": "4fc2ed1e754378586efbca6a7973fbb92f7cb2cb4b7c3b0ab700c6fd355a9c7c",
+      "git_blob_sha": "7bf4acae0ff30b93f54be2ef9812c5468720e616"
+    },
+    {
+      "path": "seedance-20/tests/test_integrated_directors_read_routing.py",
+      "source_package": "seedance-20",
+      "bytes": 4500,
+      "sha256": "e820a7ccfc50a21d787fbb6caff7bd1198a75f160f325f73cbb457e407c2a3b2",
+      "git_blob_sha": "b603cc51c05c84ef2e3e4d86a5067680ab32acdc"
+    },
+    {
+      "path": "seedance-20/tests/test_lineage_consumer_parity.py",
+      "source_package": "seedance-20",
+      "bytes": 18344,
+      "sha256": "b3577cdb35c43c50d20f911c5c480c9f199966a21d2fb6fc9c325c1047a94b60",
+      "git_blob_sha": "f56895ba291ccc7382bf9d50aa3cf82f186c3ce9"
+    },
+    {
+      "path": "seedance-20/tests/test_multilingual_native_review.py",
+      "source_package": "seedance-20",
+      "bytes": 78767,
+      "sha256": "8193617ebfa720a2728037440176117beaca1930dcad382a8063daab9ea41cac",
+      "git_blob_sha": "9b1d846e76e3761265b7bb12028e618954d6c34f"
+    },
+    {
+      "path": "seedance-20/tests/test_portable_routing.py",
+      "source_package": "seedance-20",
+      "bytes": 28747,
+      "sha256": "28d8111c905a556601643c4f68c959be343f373c8f4e00775f1e661fa9ed0ede",
+      "git_blob_sha": "547e963d1eb8a00c3ca7b7c1147b3aefb2df109a"
+    },
+    {
+      "path": "seedance-20/tests/test_privileged_ci_workflow.py",
+      "source_package": "seedance-20",
+      "bytes": 6211,
+      "sha256": "e0aab205b0d3e65adafd80ba98cdb71e95c980b0821e6fc73fc661668bd2e194",
+      "git_blob_sha": "cfa57319ed5543577a27ae49a6d41d3c6bc2dee0"
+    },
+    {
+      "path": "seedance-20/tests/test_project_state.py",
+      "source_package": "seedance-20",
+      "bytes": 23016,
+      "sha256": "3694abd4602df1ec9e7b095ce8af0779cd169f6eb93e615bbd4f9baea2dfc38f",
+      "git_blob_sha": "ccaf281c782c764614f1e1d7df19a1de6bc5b85e"
+    },
+    {
+      "path": "seedance-20/tests/test_prompt_architecture_stress.py",
+      "source_package": "seedance-20",
+      "bytes": 164181,
+      "sha256": "787093cf31fd4504a197f708d350283e52622041ec28f1d4eda76dc0513fd81d",
+      "git_blob_sha": "8053c24af6886e3341fad2160af20a9a890c8b2d"
+    },
+    {
+      "path": "seedance-20/tests/test_prompt_lint.py",
+      "source_package": "seedance-20",
+      "bytes": 40030,
+      "sha256": "1d218798c08e64d989b2ee0d98c8477e535462766dbb271bb10d657c02803917",
+      "git_blob_sha": "fc32464b564d79f706db09d04df1d26f32f735a1"
+    },
+    {
+      "path": "seedance-20/tests/test_prompt_package_examples.py",
+      "source_package": "seedance-20",
+      "bytes": 3273,
+      "sha256": "64a406a23e7443fd9fc548d2e61236928d31ed16c91146bba82527438195c933",
+      "git_blob_sha": "43560882a750fa97318d855b373b58763a0a8b08"
+    },
+    {
+      "path": "seedance-20/tests/test_python_support_contract.py",
+      "source_package": "seedance-20",
+      "bytes": 3223,
+      "sha256": "e2b4052113467169623c3551c5fbefd19b81420ba66753be8090deb96ad91f41",
+      "git_blob_sha": "6c51a5052c9f2b4743b6f53ed6e33cc616149525"
+    },
+    {
+      "path": "seedance-20/tests/test_release_docs_consistency.py",
+      "source_package": "seedance-20",
+      "bytes": 6161,
+      "sha256": "039a503a3f1557f2b21d2db6ad2f819307ede1fe4d5c081a7add418035d72b85",
+      "git_blob_sha": "96923d036f1a853de248e088f44684a71a5ad3ee"
+    },
+    {
+      "path": "seedance-20/tests/test_runtime_payload.py",
+      "source_package": "seedance-20",
+      "bytes": 16066,
+      "sha256": "7943b458b862f56fa46ac605079531aee2d0713a844d04bf9d6d7a815c54ac99",
+      "git_blob_sha": "bdc0642cfc213ac1eb68c6105bce89f0af810719"
+    },
+    {
+      "path": "seedance-20/tests/test_schema_check.py",
+      "source_package": "seedance-20",
+      "bytes": 44816,
+      "sha256": "e341f65d912cc41a04377cb23ce2d75da96fb9ce3b73e93f85fd17eaa2bde49b",
+      "git_blob_sha": "26ffcb5e8a4f4207d82c19d12be685f9a1f10252"
+    },
+    {
+      "path": "seedance-20/tests/test_sequence_eval.py",
+      "source_package": "seedance-20",
+      "bytes": 558,
+      "sha256": "44f357075bd931b417d4fe57fe692b1bb8edddc99ec120d73b7e292c5e833987",
+      "git_blob_sha": "672799867a8b4219210d31f1eda405b94eec465b"
+    },
+    {
+      "path": "seedance-20/tests/test_source_registry_freshness.py",
+      "source_package": "seedance-20",
+      "bytes": 18455,
+      "sha256": "e9f5ca4961dff2d5a297fbe94e48067562508a2be30af225d293c56fde691ec5",
+      "git_blob_sha": "bec6e3f8442cc7c5b6b440f754ffcf9998322a15"
+    },
+    {
+      "path": "seedance-20/tests/test_strict_cli_contract.py",
+      "source_package": "seedance-20",
+      "bytes": 12614,
+      "sha256": "676a208e279231c8aad81fc5d4f20592cfb6a640fa8ba0f9d6e9b56c74dc09e1",
+      "git_blob_sha": "0e2f8a79c82358339679481b76232d3435b892f1"
+    },
+    {
+      "path": "seedance-20/tests/test_strict_json_inputs.py",
+      "source_package": "seedance-20",
+      "bytes": 46800,
+      "sha256": "cb6ffd3558050439528376103aa2b252f11bab4478554fe0f4b0f6bc93fa2c7d",
+      "git_blob_sha": "3d02bc789f911fee8625e3c05a1fbcc641b44366"
+    },
+    {
+      "path": "seedance-20/tests/test_take_reconciliation.py",
+      "source_package": "seedance-20",
+      "bytes": 30851,
+      "sha256": "ba3be8e27ac521a2b17ef8201bdd3382c6b0ca2c4ab124d1006343d51b1bb9d3",
+      "git_blob_sha": "79ffd5985e23ae2e27a6fc7c93e6e44621dc1e98"
+    },
+    {
+      "path": "seedance-20/tests/test_validate_skills_bytecode.py",
+      "source_package": "seedance-20",
+      "bytes": 3016,
+      "sha256": "bf9af942324ca3d38fa5739a3d9f6e0141c9fefb9e7a16e15e482bb6dcfc4746",
+      "git_blob_sha": "4211f8fd36664ae33ba80198cb92104833187247"
+    },
+    {
+      "path": "seedance-20/tests/test_validation_contract.py",
+      "source_package": "seedance-20",
+      "bytes": 9293,
+      "sha256": "768d0ec66019dcba13a835627a4334594f9b6e6302913aa73d483241169986de",
+      "git_blob_sha": "2705950c069c3784294ccad5855a320d9ba9cdb9"
+    },
+    {
+      "path": "seedance-20/validation/authoring-state-provenance-ledger.json",
+      "source_package": "seedance-20",
+      "bytes": 596,
+      "sha256": "6c2d9a671d50a9c6c55178e39ea9b1ae355d02a78c075a512d03ed157d839b40",
+      "git_blob_sha": "c80ff99eef541a0fbb2628949acafc1f9080641f"
+    },
+    {
+      "path": "seedance-20/validation/fixtures/directors-read-cases.json",
+      "source_package": "seedance-20",
+      "bytes": 5518,
+      "sha256": "9dffa978cf6655c41dae1ff98dd0ec7f72c12ffda810b55b356b27d9aefeb5ae",
+      "git_blob_sha": "d266f275b9ea7b3916bd15e0601ec52e089a70d0"
+    },
+    {
+      "path": "seedance-20/validation/fixtures/generation-run.valid.json",
+      "source_package": "seedance-20",
+      "bytes": 472,
+      "sha256": "996e38d1d93ebd01b0afe5935e2cd7f24ec1dde0a5e9080ca22cf9bf491e8bd9",
+      "git_blob_sha": "976ebe0117732938b8842641597ff4969f19b708"
+    },
+    {
+      "path": "seedance-20/validation/fixtures/prompt-spec.valid.json",
+      "source_package": "seedance-20",
+      "bytes": 1121,
+      "sha256": "9ca43416869c6e591b38d2eda703b0301d74453801f0915083063de0497b7ffa",
+      "git_blob_sha": "a9037e58db596c52e6e92dd36e35b43c0039e155"
+    },
+    {
+      "path": "seedance-20/validation/install-payload.txt",
+      "source_package": "seedance-20",
+      "bytes": 6245,
+      "sha256": "8feec5e1f39794ae0cc7f595a430a0359fe1f1685f59e5bfcddf4b620fd291e4",
+      "git_blob_sha": "7e6ab3bb2be9d0a167b6f7cfacd50a14b63a8103"
+    },
+    {
+      "path": "seedance-20/validation/schema-instances.json",
+      "source_package": "seedance-20",
+      "bytes": 1116,
+      "sha256": "843c8fd2155a0b789290380c9a8517fae0abfb1783b92a9468f81f5e0423e3db",
+      "git_blob_sha": "df4386a275aae68660fc03a11beaa09eda5295e9"
+    }
+  ],
+  "skills": [
+    {
+      "name": "anime-pv-i2va-generator",
+      "path": "anime-pv-i2va-generator/SKILL.md"
+    },
+    {
+      "name": "h3-prompt-writing",
+      "path": "h3-prompt-writing/SKILL.md"
+    },
+    {
+      "name": "high-density-fight-prompt",
+      "path": "h3-prompt-writing/references/fight/SKILL.md"
+    },
+    {
+      "name": "seedance-20",
+      "path": "seedance-20/SKILL.md"
+    },
+    {
+      "name": "seedance-antislop",
+      "path": "seedance-20/skills/seedance-antislop/SKILL.md"
+    },
+    {
+      "name": "seedance-audio",
+      "path": "seedance-20/skills/seedance-audio/SKILL.md"
+    },
+    {
+      "name": "seedance-camera",
+      "path": "seedance-20/skills/seedance-camera/SKILL.md"
+    },
+    {
+      "name": "seedance-characters",
+      "path": "seedance-20/skills/seedance-characters/SKILL.md"
+    },
+    {
+      "name": "seedance-continuation",
+      "path": "seedance-20/skills/seedance-continuation/SKILL.md"
+    },
+    {
+      "name": "seedance-copyright",
+      "path": "seedance-20/skills/seedance-copyright/SKILL.md"
+    },
+    {
+      "name": "seedance-examples-ja",
+      "path": "seedance-20/skills/seedance-examples-ja/SKILL.md"
+    },
+    {
+      "name": "seedance-examples-ko",
+      "path": "seedance-20/skills/seedance-examples-ko/SKILL.md"
+    },
+    {
+      "name": "seedance-examples-zh",
+      "path": "seedance-20/skills/seedance-examples-zh/SKILL.md"
+    },
+    {
+      "name": "seedance-filter",
+      "path": "seedance-20/skills/seedance-filter/SKILL.md"
+    },
+    {
+      "name": "seedance-interview",
+      "path": "seedance-20/skills/seedance-interview/SKILL.md"
+    },
+    {
+      "name": "seedance-interview-short",
+      "path": "seedance-20/skills/seedance-interview-short/SKILL.md"
+    },
+    {
+      "name": "seedance-lighting",
+      "path": "seedance-20/skills/seedance-lighting/SKILL.md"
+    },
+    {
+      "name": "seedance-motion",
+      "path": "seedance-20/skills/seedance-motion/SKILL.md"
+    },
+    {
+      "name": "seedance-pipeline",
+      "path": "seedance-20/skills/seedance-pipeline/SKILL.md"
+    },
+    {
+      "name": "seedance-prompt",
+      "path": "seedance-20/skills/seedance-prompt/SKILL.md"
+    },
+    {
+      "name": "seedance-prompt-short",
+      "path": "seedance-20/skills/seedance-prompt-short/SKILL.md"
+    },
+    {
+      "name": "seedance-recipes",
+      "path": "seedance-20/skills/seedance-recipes/SKILL.md"
+    },
+    {
+      "name": "seedance-sequence",
+      "path": "seedance-20/skills/seedance-sequence/SKILL.md"
+    },
+    {
+      "name": "seedance-style",
+      "path": "seedance-20/skills/seedance-style/SKILL.md"
+    },
+    {
+      "name": "seedance-troubleshoot",
+      "path": "seedance-20/skills/seedance-troubleshoot/SKILL.md"
+    },
+    {
+      "name": "seedance-vfx",
+      "path": "seedance-20/skills/seedance-vfx/SKILL.md"
+    },
+    {
+      "name": "seedance-vocab-en",
+      "path": "seedance-20/skills/seedance-vocab-en/SKILL.md"
+    },
+    {
+      "name": "seedance-vocab-es",
+      "path": "seedance-20/skills/seedance-vocab-es/SKILL.md"
+    },
+    {
+      "name": "seedance-vocab-ja",
+      "path": "seedance-20/skills/seedance-vocab-ja/SKILL.md"
+    },
+    {
+      "name": "seedance-vocab-ko",
+      "path": "seedance-20/skills/seedance-vocab-ko/SKILL.md"
+    },
+    {
+      "name": "seedance-vocab-ru",
+      "path": "seedance-20/skills/seedance-vocab-ru/SKILL.md"
+    },
+    {
+      "name": "seedance-vocab-zh",
+      "path": "seedance-20/skills/seedance-vocab-zh/SKILL.md"
+    },
+    {
+      "name": "video-prompt-router",
+      "path": "SKILL.md"
+    }
+  ]
+}
